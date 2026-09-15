@@ -1,0 +1,41 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/418 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 418/418 [00:00<00:00, 14242.12it/s]
+[owlv2-base] loaded, VRAM 0.62 GB, 869 images, groups ['A', 'C2', 'D']
+  25/869  40s  eta 1334s
+  50/869  79s  eta 1286s
+  75/869  117s  eta 1242s
+  100/869  157s  eta 1207s
+  125/869  196s  eta 1166s
+  150/869  235s  eta 1128s
+  175/869  275s  eta 1089s
+  200/869  314s  eta 1050s
+  225/869  353s  eta 1010s
+  250/869  392s  eta 970s
+  275/869  431s  eta 930s
+  300/869  470s  eta 891s
+  325/869  508s  eta 850s
+  350/869  547s  eta 811s
+  375/869  586s  eta 772s
+  400/869  625s  eta 733s
+  425/869  665s  eta 695s
+  450/869  704s  eta 656s
+  475/869  743s  eta 616s
+  500/869  781s  eta 577s
+  525/869  820s  eta 537s
+  550/869  859s  eta 498s
+  575/869  898s  eta 459s
+  600/869  937s  eta 420s
+  625/869  975s  eta 381s
+  650/869  1014s  eta 342s
+  675/869  1052s  eta 302s
+  700/869  1091s  eta 263s
+  725/869  1129s  eta 224s
+  750/869  1167s  eta 185s
+  775/869  1205s  eta 146s
+  800/869  1244s  eta 107s
+  825/869  1282s  eta 68s
+  850/869  1321s  eta 30s
+  869/869  1351s  eta 0s
+wrote 7 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/owlv2-base_neg  (1352.1s)

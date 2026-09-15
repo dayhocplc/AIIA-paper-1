@@ -1,0 +1,9 @@
+
+Loading weights:   0%|          | 0/1468 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 1468/1468 [00:00<00:00, 20262.47it/s]
+[sam3] loaded, VRAM 3.38 GB, 80 images, groups ['A', 'B', 'C1', 'C2', 'D', 'E']
+  25/80  210s  eta 462s
+  50/80  420s  eta 252s
+  75/80  632s  eta 42s
+  80/80  674s  eta 0s
+wrote 15 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/sam3_panel  (674.6s)

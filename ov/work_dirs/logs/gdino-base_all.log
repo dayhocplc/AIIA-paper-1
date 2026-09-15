@@ -1,0 +1,15 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/1182 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 1182/1182 [00:00<00:00, 15026.88it/s]
+[gdino-base] loaded, VRAM 0.94 GB, 222 images, groups ['A', 'B', 'C1', 'C2', 'D', 'E']
+  25/222  77s  eta 604s
+  50/222  153s  eta 527s
+  75/222  230s  eta 451s
+  100/222  306s  eta 374s
+  125/222  383s  eta 298s
+  150/222  460s  eta 221s
+  175/222  537s  eta 144s
+  200/222  614s  eta 68s
+  222/222  682s  eta 0s
+wrote 15 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/gdino-base_all  (682.9s)

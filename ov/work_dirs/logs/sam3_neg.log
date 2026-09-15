@@ -1,0 +1,41 @@
+
+Loading weights:   0%|          | 0/1468 [00:00<?, ?it/s]
+Loading weights:  56%|█████▌    | 819/1468 [00:00<00:00, 8188.84it/s]
+Loading weights: 100%|██████████| 1468/1468 [00:00<00:00, 6155.11it/s]
+[sam3] loaded, VRAM 3.38 GB, 869 images, groups ['A', 'C2', 'D']
+  25/869  96s  eta 3251s
+  50/869  192s  eta 3153s
+  75/869  289s  eta 3063s
+  100/869  386s  eta 2970s
+  125/869  484s  eta 2878s
+  150/869  580s  eta 2779s
+  175/869  675s  eta 2677s
+  200/869  771s  eta 2580s
+  225/869  866s  eta 2478s
+  250/869  963s  eta 2384s
+  275/869  1060s  eta 2289s
+  300/869  1157s  eta 2195s
+  325/869  1253s  eta 2097s
+  350/869  1352s  eta 2004s
+  375/869  1449s  eta 1908s
+  400/869  1546s  eta 1813s
+  425/869  1644s  eta 1718s
+  450/869  1741s  eta 1621s
+  475/869  1840s  eta 1526s
+  500/869  1938s  eta 1431s
+  525/869  2036s  eta 1334s
+  550/869  2131s  eta 1236s
+  575/869  2227s  eta 1139s
+  600/869  2322s  eta 1041s
+  625/869  2418s  eta 944s
+  650/869  2514s  eta 847s
+  675/869  2610s  eta 750s
+  700/869  2705s  eta 653s
+  725/869  2801s  eta 556s
+  750/869  2897s  eta 460s
+  775/869  2993s  eta 363s
+  800/869  3088s  eta 266s
+  825/869  3181s  eta 170s
+  850/869  3275s  eta 73s
+  869/869  3348s  eta 0s
+wrote 7 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/sam3_neg  (3350.5s)

@@ -1,0 +1,41 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/978 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 978/978 [00:00<00:00, 15348.80it/s]
+[gdino-tiny] loaded, VRAM 0.69 GB, 869 images, groups ['A', 'C2', 'D']
+  25/869  28s  eta 933s
+  50/869  55s  eta 901s
+  75/869  82s  eta 872s
+  100/869  110s  eta 844s
+  125/869  137s  eta 816s
+  150/869  164s  eta 788s
+  175/869  192s  eta 761s
+  200/869  219s  eta 733s
+  225/869  247s  eta 706s
+  250/869  274s  eta 678s
+  275/869  301s  eta 651s
+  300/869  329s  eta 623s
+  325/869  356s  eta 596s
+  350/869  383s  eta 568s
+  375/869  411s  eta 541s
+  400/869  438s  eta 514s
+  425/869  466s  eta 486s
+  450/869  493s  eta 459s
+  475/869  521s  eta 432s
+  500/869  548s  eta 405s
+  525/869  576s  eta 377s
+  550/869  603s  eta 350s
+  575/869  631s  eta 323s
+  600/869  659s  eta 295s
+  625/869  687s  eta 268s
+  650/869  714s  eta 241s
+  675/869  742s  eta 213s
+  700/869  770s  eta 186s
+  725/869  797s  eta 158s
+  750/869  825s  eta 131s
+  775/869  852s  eta 103s
+  800/869  880s  eta 76s
+  825/869  907s  eta 48s
+  850/869  935s  eta 21s
+  869/869  956s  eta 0s
+wrote 7 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/gdino-tiny_neg  (956.8s)

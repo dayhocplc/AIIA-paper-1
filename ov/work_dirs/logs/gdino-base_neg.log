@@ -1,0 +1,42 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/1182 [00:00<?, ?it/s]
+Loading weights:  57%|█████▋    | 675/1182 [00:00<00:00, 6749.04it/s]
+Loading weights: 100%|██████████| 1182/1182 [00:00<00:00, 6023.17it/s]
+[gdino-base] loaded, VRAM 0.94 GB, 869 images, groups ['A', 'C2', 'D']
+  25/869  37s  eta 1252s
+  50/869  74s  eta 1207s
+  75/869  110s  eta 1164s
+  100/869  147s  eta 1134s
+  125/869  185s  eta 1101s
+  150/869  223s  eta 1067s
+  175/869  260s  eta 1032s
+  200/869  297s  eta 993s
+  225/869  332s  eta 951s
+  250/869  367s  eta 909s
+  275/869  402s  eta 869s
+  300/869  438s  eta 830s
+  325/869  473s  eta 792s
+  350/869  509s  eta 755s
+  375/869  546s  eta 719s
+  400/869  583s  eta 683s
+  425/869  619s  eta 647s
+  450/869  656s  eta 611s
+  475/869  691s  eta 574s
+  500/869  727s  eta 537s
+  525/869  763s  eta 500s
+  550/869  798s  eta 463s
+  575/869  835s  eta 427s
+  600/869  870s  eta 390s
+  625/869  905s  eta 353s
+  650/869  940s  eta 317s
+  675/869  975s  eta 280s
+  700/869  1010s  eta 244s
+  725/869  1046s  eta 208s
+  750/869  1083s  eta 172s
+  775/869  1120s  eta 136s
+  800/869  1157s  eta 100s
+  825/869  1194s  eta 64s
+  850/869  1231s  eta 28s
+  869/869  1259s  eta 0s
+wrote 7 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/gdino-base_neg  (1260.7s)

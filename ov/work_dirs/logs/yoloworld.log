@@ -1,0 +1,17 @@
+[1/15] A  weed                                14290 preds  maxconf=0.015281  25s
+[2/15] A  weeds                               18687 preds  maxconf=0.033418  43s
+[3/15] B  grass                               15372 preds  maxconf=0.111852  60s
+[4/15] B  broadleaf plant                     12040 preds  maxconf=0.124329  78s
+[5/15] B  green plant                         21965 preds  maxconf=0.579947  96s
+[6/15] B  vine                                 5620 preds  maxconf=0.011219  114s
+[7/15] C1 plant that is not sugarcane         20665 preds  maxconf=0.347769  132s
+[8/15] C1 vegetation other than the crop      22182 preds  maxconf=0.415123  149s
+[9/15] C2 unwanted plant among sugarcane      21920 preds  maxconf=0.646345  167s
+[10/15] C2 volunteer plant in a cane field     20408 preds  maxconf=0.161458  184s
+[11/15] C2 plant growing between cane rows     22197 preds  maxconf=0.517532  202s
+[12/15] D  sugarcane                            3212 preds  maxconf=0.066121  219s
+[13/15] D  sugarcane leaf                       6683 preds  maxconf=0.027391  236s
+[14/15] E  tall green leafy plant in a field   22160 preds  maxconf=0.713717  254s
+[15/15] E  broad flat green foliage on soil    22199 preds  maxconf=0.676844  271s
+
+done in 271s; global max confidence = 0.713717

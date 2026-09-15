@@ -1,0 +1,205 @@
+gdino-base   A  weed                               uIoU 0.406 [0.373-0.438] F1@.5 0.170 AP50 5.9
+gdino-base   A  weeds                              uIoU 0.405 [0.373-0.436] F1@.5 0.170 AP50 6.0
+gdino-base   B  broadleaf plant                    uIoU 0.406 [0.373-0.439] F1@.5 0.124 AP50 3.6
+gdino-base   B  grass                              uIoU 0.401 [0.369-0.434] F1@.5 0.132 AP50 4.1
+gdino-base   B  green plant                        uIoU 0.406 [0.373-0.438] F1@.5 0.182 AP50 6.0
+gdino-base   B  vine                               uIoU 0.404 [0.371-0.435] F1@.5 0.120 AP50 3.4
+gdino-base   C1 plant that is not sugarcane        uIoU 0.406 [0.373-0.439] F1@.5 0.097 AP50 2.7
+gdino-base   C1 vegetation other than the crop     uIoU 0.405 [0.371-0.438] F1@.5 0.085 AP50 3.4
+gdino-base   C2 plant growing between cane rows    uIoU 0.406 [0.373-0.438] F1@.5 0.131 AP50 4.7
+gdino-base   C2 unwanted plant among sugarcane     uIoU 0.405 [0.372-0.438] F1@.5 0.081 AP50 2.7
+gdino-base   C2 volunteer plant in a cane field    uIoU 0.404 [0.371-0.437] F1@.5 0.100 AP50 3.0
+gdino-base   D  sugarcane                          uIoU 0.621 [0.573-0.671] F1@.5 0.341 AP50 20.0
+gdino-base   D  sugarcane leaf                     uIoU 0.637 [0.586-0.687] F1@.5 0.338 AP50 21.6
+gdino-base   E  broad flat green foliage on soil   uIoU 0.399 [0.367-0.431] F1@.5 0.088 AP50 3.0
+gdino-base   E  tall green leafy plant in a field  uIoU 0.403 [0.371-0.436] F1@.5 0.084 AP50 2.7
+gdino-tiny   A  weed                               uIoU 0.402 [0.370-0.434] F1@.5 0.129 AP50 3.6
+gdino-tiny   A  weeds                              uIoU 0.402 [0.370-0.434] F1@.5 0.123 AP50 3.1
+gdino-tiny   B  broadleaf plant                    uIoU 0.402 [0.369-0.434] F1@.5 0.109 AP50 2.8
+gdino-tiny   B  grass                              uIoU 0.401 [0.368-0.433] F1@.5 0.090 AP50 2.0
+gdino-tiny   B  green plant                        uIoU 0.403 [0.370-0.434] F1@.5 0.119 AP50 2.9
+gdino-tiny   B  vine                               uIoU 0.401 [0.368-0.433] F1@.5 0.092 AP50 2.1
+gdino-tiny   C1 plant that is not sugarcane        uIoU 0.404 [0.371-0.436] F1@.5 0.086 AP50 3.0
+gdino-tiny   C1 vegetation other than the crop     uIoU 0.402 [0.370-0.434] F1@.5 0.073 AP50 2.8
+gdino-tiny   C2 plant growing between cane rows    uIoU 0.404 [0.372-0.437] F1@.5 0.103 AP50 3.4
+gdino-tiny   C2 unwanted plant among sugarcane     uIoU 0.402 [0.370-0.435] F1@.5 0.071 AP50 2.2
+gdino-tiny   C2 volunteer plant in a cane field    uIoU 0.401 [0.368-0.433] F1@.5 0.084 AP50 2.3
+gdino-tiny   D  sugarcane                          uIoU 0.609 [0.559-0.658] F1@.5 0.336 AP50 20.7
+gdino-tiny   D  sugarcane leaf                     uIoU 0.643 [0.594-0.690] F1@.5 0.334 AP50 22.0
+gdino-tiny   E  broad flat green foliage on soil   uIoU 0.398 [0.367-0.430] F1@.5 0.078 AP50 2.5
+gdino-tiny   E  tall green leafy plant in a field  uIoU 0.399 [0.368-0.431] F1@.5 0.070 AP50 2.2
+owlv2-base   A  weed                               uIoU 0.380 [0.351-0.411] F1@.5 0.145 AP50 5.3
+owlv2-base   A  weeds                              uIoU 0.380 [0.351-0.412] F1@.5 0.150 AP50 6.0
+owlv2-base   B  broadleaf plant                    uIoU 0.380 [0.351-0.412] F1@.5 0.138 AP50 6.1
+owlv2-base   B  grass                              uIoU 0.378 [0.349-0.408] F1@.5 0.112 AP50 2.4
+owlv2-base   B  green plant                        uIoU 0.379 [0.350-0.411] F1@.5 0.124 AP50 4.0
+owlv2-base   B  vine                               uIoU 0.375 [0.347-0.405] F1@.5 0.063 AP50 1.7
+owlv2-base   C1 plant that is not sugarcane        uIoU 0.378 [0.349-0.409] F1@.5 0.067 AP50 1.3
+owlv2-base   C1 vegetation other than the crop     uIoU 0.380 [0.351-0.412] F1@.5 0.118 AP50 4.0
+owlv2-base   C2 plant growing between cane rows    uIoU 0.379 [0.350-0.411] F1@.5 0.067 AP50 1.6
+owlv2-base   C2 unwanted plant among sugarcane     uIoU 0.378 [0.349-0.409] F1@.5 0.063 AP50 1.1
+owlv2-base   C2 volunteer plant in a cane field    uIoU 0.380 [0.351-0.412] F1@.5 0.095 AP50 2.3
+owlv2-base   D  sugarcane                          uIoU 0.541 [0.497-0.584] F1@.5 0.286 AP50 18.0
+owlv2-base   D  sugarcane leaf                     uIoU 0.527 [0.485-0.571] F1@.5 0.187 AP50 9.0
+owlv2-base   E  broad flat green foliage on soil   uIoU 0.378 [0.349-0.408] F1@.5 0.128 AP50 4.3
+owlv2-base   E  tall green leafy plant in a field  uIoU 0.380 [0.351-0.412] F1@.5 0.123 AP50 3.9
+owlv2-large  A  weed                               uIoU 0.380 [0.350-0.411] F1@.5 0.174 AP50 7.9
+owlv2-large  A  weeds                              uIoU 0.380 [0.350-0.411] F1@.5 0.187 AP50 7.5
+owlv2-large  B  broadleaf plant                    uIoU 0.380 [0.350-0.411] F1@.5 0.155 AP50 8.4
+owlv2-large  B  grass                              uIoU 0.378 [0.349-0.409] F1@.5 0.137 AP50 4.8
+owlv2-large  B  green plant                        uIoU 0.379 [0.350-0.410] F1@.5 0.143 AP50 6.7
+owlv2-large  B  vine                               uIoU 0.373 [0.344-0.404] F1@.5 0.063 AP50 1.4
+owlv2-large  C1 plant that is not sugarcane        uIoU 0.380 [0.351-0.412] F1@.5 0.072 AP50 2.7
+owlv2-large  C1 vegetation other than the crop     uIoU 0.379 [0.350-0.411] F1@.5 0.155 AP50 5.8
+owlv2-large  C2 plant growing between cane rows    uIoU 0.380 [0.350-0.412] F1@.5 0.093 AP50 2.7
+owlv2-large  C2 unwanted plant among sugarcane     uIoU 0.380 [0.351-0.412] F1@.5 0.065 AP50 1.6
+owlv2-large  C2 volunteer plant in a cane field    uIoU 0.381 [0.351-0.412] F1@.5 0.113 AP50 3.8
+owlv2-large  D  sugarcane                          uIoU 0.601 [0.557-0.641] F1@.5 0.273 AP50 15.1
+owlv2-large  D  sugarcane leaf                     uIoU 0.526 [0.482-0.569] F1@.5 0.048 AP50 1.8
+owlv2-large  E  broad flat green foliage on soil   uIoU 0.378 [0.350-0.409] F1@.5 0.121 AP50 4.5
+owlv2-large  E  tall green leafy plant in a field  uIoU 0.380 [0.350-0.411] F1@.5 0.126 AP50 4.8
+sam3         A  weed                               uIoU 0.401 [0.369-0.434] F1@.5 0.164 AP50 8.1
+sam3         A  weeds                              uIoU 0.402 [0.369-0.434] F1@.5 0.176 AP50 7.5
+sam3         B  broadleaf plant                    uIoU 0.402 [0.370-0.435] F1@.5 0.120 AP50 5.4
+sam3         B  grass                              uIoU 0.398 [0.367-0.430] F1@.5 0.153 AP50 5.6
+sam3         B  green plant                        uIoU 0.403 [0.370-0.435] F1@.5 0.182 AP50 8.3
+sam3         B  vine                               uIoU 0.116 [0.085-0.152] F1@.5 0.059 AP50 2.8
+sam3         C1 plant that is not sugarcane        uIoU 0.402 [0.370-0.434] F1@.5 0.163 AP50 6.4
+sam3         C1 vegetation other than the crop     uIoU 0.402 [0.369-0.434] F1@.5 0.152 AP50 5.8
+sam3         C2 plant growing between cane rows    uIoU 0.404 [0.372-0.437] F1@.5 0.185 AP50 6.8
+sam3         C2 unwanted plant among sugarcane     uIoU 0.403 [0.371-0.435] F1@.5 0.188 AP50 7.8
+sam3         C2 volunteer plant in a cane field    uIoU 0.402 [0.370-0.434] F1@.5 0.157 AP50 7.2
+sam3         D  sugarcane                          uIoU 0.400 [0.347-0.455] F1@.5 0.052 AP50 0.9
+sam3         D  sugarcane leaf                     uIoU 0.624 [0.578-0.669] F1@.5 0.023 AP50 0.6
+sam3         E  broad flat green foliage on soil   uIoU 0.401 [0.369-0.433] F1@.5 0.059 AP50 1.4
+sam3         E  tall green leafy plant in a field  uIoU 0.402 [0.370-0.434] F1@.5 0.143 AP50 5.4
+sam3agent    AGENT mllm noun phrases                  uIoU 0.251 [0.213-0.286] F1@.5 0.070 AP50 1.0
+yoloworld-s  A  weed                               uIoU 0.000 [0.000-0.000] F1@.5 0.000 AP50 1.5
+yoloworld-s  A  weeds                              uIoU 0.014 [0.005-0.027] F1@.5 0.004 AP50 1.8
+yoloworld-s  B  broadleaf plant                    uIoU 0.035 [0.020-0.053] F1@.5 0.008 AP50 1.6
+yoloworld-s  B  grass                              uIoU 0.032 [0.018-0.048] F1@.5 0.002 AP50 1.7
+yoloworld-s  B  green plant                        uIoU 0.241 [0.208-0.277] F1@.5 0.047 AP50 1.9
+yoloworld-s  B  vine                               uIoU 0.000 [0.000-0.000] F1@.5 0.000 AP50 1.3
+yoloworld-s  C1 plant that is not sugarcane        uIoU 0.171 [0.142-0.202] F1@.5 0.025 AP50 1.4
+yoloworld-s  C1 vegetation other than the crop     uIoU 0.386 [0.352-0.421] F1@.5 0.068 AP50 2.0
+yoloworld-s  C2 plant growing between cane rows    uIoU 0.234 [0.205-0.266] F1@.5 0.038 AP50 1.4
+yoloworld-s  C2 unwanted plant among sugarcane     uIoU 0.252 [0.223-0.288] F1@.5 0.042 AP50 1.4
+yoloworld-s  C2 volunteer plant in a cane field    uIoU 0.097 [0.074-0.124] F1@.5 0.017 AP50 1.5
+yoloworld-s  D  sugarcane                          uIoU 0.194 [0.142-0.250] F1@.5 0.005 AP50 18.5
+yoloworld-s  D  sugarcane leaf                     uIoU 0.197 [0.144-0.252] F1@.5 0.005 AP50 18.7
+yoloworld-s  E  broad flat green foliage on soil   uIoU 0.394 [0.361-0.427] F1@.5 0.071 AP50 1.7
+yoloworld-s  E  tall green leafy plant in a field  uIoU 0.337 [0.304-0.372] F1@.5 0.054 AP50 2.3
+
+wrote ov/results/eval_main.json  (91 runs)
+gdino-base   A  weed                              mean 0.117 [0.106-0.130]
+gdino-base   A  weeds                             mean 0.122 [0.110-0.138]
+gdino-base   B  broadleaf plant                   mean 0.099 [0.084-0.127]
+gdino-base   B  grass                             mean 0.103 [0.093-0.128]
+gdino-base   B  green plant                       mean 0.119 [0.104-0.138]
+gdino-base   B  vine                              mean 0.091 [0.076-0.122]
+gdino-base   C1 plant that is not sugarcane       mean 0.087 [0.070-0.122]
+gdino-base   C1 vegetation other than the crop    mean 0.088 [0.063-0.128]
+gdino-base   C2 plant growing between cane rows   mean 0.099 [0.083-0.127]
+gdino-base   C2 unwanted plant among sugarcane    mean 0.076 [0.060-0.101]
+gdino-base   C2 volunteer plant in a cane field   mean 0.094 [0.079-0.121]
+gdino-base   E  broad flat green foliage on soil  mean 0.080 [0.060-0.124]
+gdino-base   E  tall green leafy plant in a fiel  mean 0.076 [0.060-0.110]
+gdino-tiny   A  weed                              mean 0.104 [0.094-0.129]
+gdino-tiny   A  weeds                             mean 0.105 [0.087-0.132]
+gdino-tiny   B  broadleaf plant                   mean 0.097 [0.078-0.127]
+gdino-tiny   B  grass                             mean 0.086 [0.071-0.129]
+gdino-tiny   B  green plant                       mean 0.103 [0.085-0.129]
+gdino-tiny   B  vine                              mean 0.087 [0.069-0.127]
+gdino-tiny   C1 plant that is not sugarcane       mean 0.084 [0.062-0.127]
+gdino-tiny   C1 vegetation other than the crop    mean 0.082 [0.062-0.129]
+gdino-tiny   C2 plant growing between cane rows   mean 0.088 [0.067-0.120]
+gdino-tiny   C2 unwanted plant among sugarcane    mean 0.073 [0.058-0.102]
+gdino-tiny   C2 volunteer plant in a cane field   mean 0.080 [0.067-0.106]
+gdino-tiny   E  broad flat green foliage on soil  mean 0.076 [0.060-0.118]
+gdino-tiny   E  tall green leafy plant in a fiel  mean 0.081 [0.061-0.125]
+owlv2-base   A  weed                              mean 0.114 [0.098-0.149]
+owlv2-base   A  weeds                             mean 0.131 [0.120-0.156]
+owlv2-base   B  broadleaf plant                   mean 0.120 [0.098-0.160]
+owlv2-base   B  grass                             mean 0.111 [0.091-0.150]
+owlv2-base   B  green plant                       mean 0.112 [0.097-0.144]
+owlv2-base   B  vine                              mean 0.063 [0.053-0.083]
+owlv2-base   C1 plant that is not sugarcane       mean 0.083 [0.071-0.111]
+owlv2-base   C1 vegetation other than the crop    mean 0.111 [0.093-0.149]
+owlv2-base   C2 plant growing between cane rows   mean 0.078 [0.064-0.092]
+owlv2-base   C2 unwanted plant among sugarcane    mean 0.071 [0.062-0.082]
+owlv2-base   C2 volunteer plant in a cane field   mean 0.105 [0.089-0.138]
+owlv2-base   E  broad flat green foliage on soil  mean 0.113 [0.094-0.156]
+owlv2-base   E  tall green leafy plant in a fiel  mean 0.115 [0.097-0.154]
+owlv2-large  A  weed                              mean 0.141 [0.125-0.162]
+owlv2-large  A  weeds                             mean 0.152 [0.142-0.177]
+owlv2-large  B  broadleaf plant                   mean 0.127 [0.116-0.143]
+owlv2-large  B  grass                             mean 0.131 [0.111-0.156]
+owlv2-large  B  green plant                       mean 0.127 [0.122-0.142]
+owlv2-large  B  vine                              mean 0.059 [0.056-0.064]
+owlv2-large  C1 plant that is not sugarcane       mean 0.091 [0.070-0.106]
+owlv2-large  C1 vegetation other than the crop    mean 0.135 [0.119-0.156]
+owlv2-large  C2 plant growing between cane rows   mean 0.107 [0.082-0.135]
+owlv2-large  C2 unwanted plant among sugarcane    mean 0.076 [0.059-0.087]
+owlv2-large  C2 volunteer plant in a cane field   mean 0.119 [0.097-0.143]
+owlv2-large  E  broad flat green foliage on soil  mean 0.107 [0.090-0.152]
+owlv2-large  E  tall green leafy plant in a fiel  mean 0.127 [0.111-0.158]
+sam3         A  weed                              mean 0.092 [0.081-0.109]
+sam3         A  weeds                             mean 0.106 [0.091-0.124]
+sam3         B  broadleaf plant                   mean 0.089 [0.070-0.122]
+sam3         B  grass                             mean 0.077 [0.069-0.084]
+sam3         B  green plant                       mean 0.126 [0.112-0.152]
+sam3         B  vine                              mean 0.066 [0.051-0.089]
+sam3         C1 plant that is not sugarcane       mean 0.112 [0.099-0.138]
+sam3         C1 vegetation other than the crop    mean 0.096 [0.079-0.125]
+sam3         C2 plant growing between cane rows   mean 0.115 [0.102-0.143]
+sam3         C2 unwanted plant among sugarcane    mean 0.124 [0.113-0.138]
+sam3         C2 volunteer plant in a cane field   mean 0.113 [0.095-0.149]
+sam3         E  broad flat green foliage on soil  mean 0.067 [0.058-0.086]
+sam3         E  tall green leafy plant in a fiel  mean 0.110 [0.091-0.142]
+sam3agent    AGENT mllm noun phrases                 mean 0.042 [0.029-0.049]
+yoloworld-s  A  weed                              mean 0.000 [0.000-0.000]
+yoloworld-s  A  weeds                             mean 0.002 [0.000-0.008]
+yoloworld-s  B  broadleaf plant                   mean 0.016 [0.009-0.030]
+yoloworld-s  B  grass                             mean 0.005 [0.000-0.016]
+yoloworld-s  B  green plant                       mean 0.077 [0.056-0.128]
+yoloworld-s  B  vine                              mean 0.000 [0.000-0.000]
+yoloworld-s  C1 plant that is not sugarcane       mean 0.018 [0.009-0.030]
+yoloworld-s  C1 vegetation other than the crop    mean 0.091 [0.065-0.152]
+yoloworld-s  C2 plant growing between cane rows   mean 0.030 [0.017-0.053]
+yoloworld-s  C2 unwanted plant among sugarcane    mean 0.035 [0.024-0.054]
+yoloworld-s  C2 volunteer plant in a cane field   mean 0.011 [0.005-0.022]
+yoloworld-s  E  broad flat green foliage on soil  mean 0.092 [0.069-0.141]
+yoloworld-s  E  tall green leafy plant in a fiel  mean 0.078 [0.058-0.128]
+
+=== TOP 5 cau hinh OV tren panel (trung binh 4 nguoi) ===
+  0.152 [0.142-0.177]  owlv2-large | A | weeds
+  0.141 [0.125-0.162]  owlv2-large | A | weed
+  0.135 [0.119-0.156]  owlv2-large | C1 | vegetation other than the crop
+  0.131 [0.111-0.156]  owlv2-large | B | grass
+  0.131 [0.120-0.156]  owlv2-base | A | weeds
+
+  nguoi-nguoi  : 0.303 [0.232-0.548]
+  co giam sat  : 0.281 [0.246-0.301]
+  OV tot nhat  : 0.152  = 50% muc dong thuan nguoi
+
+wrote <GIAMIA_ROOT>/ov/results/panel_ov.json
+supervised RTMDet  microF1 0.4172   uIoU 0.5353  (n=16200 preds over 54 images)
+
+top-5 OV configurations on the 54-image test split (micro-F1 @ IoU 0.50):
+  0.1941  sam3|C2|unwanted plant among sugarcane
+  0.1916  sam3|C2|plant growing between cane rows
+  0.1854  sam3|B|green plant
+  0.1844  sam3|A|weeds
+  0.1802  sam3|C1|plant that is not sugarcane
+
+best OV (sam3|C2|unwanted plant among sugarcane)  vs  supervised RTMDet
+  0.1941 vs 0.4172   diff -0.2230 [-0.3020, -0.1473]  DISTINGUISHABLE
+  label-noise ceiling F1 = 0.399 [0.342-0.454]; expert-expert = 0.391
+
+wrote <GIAMIA_ROOT>/ov/results/vs_supervised.json
+Traceback (most recent call last):
+  File "<GIAMIA_ROOT>/ov/scripts/08_tables.py", line 84, in <module>
+    r = c['models'][m]['contrasts'].get(k)
+        ~~~~~~~~~~~^^^
+KeyError: 'sam3agent'
+FINAL2 DONE 18:07:06

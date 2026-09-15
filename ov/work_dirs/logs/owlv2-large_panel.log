@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/610 [00:00<?, ?it/s]
+Loading weights:  78%|███████▊  | 474/610 [00:00<00:00, 4727.59it/s]
+Loading weights: 100%|██████████| 610/610 [00:00<00:00, 4725.06it/s]
+[owlv2-large] loaded, VRAM 1.75 GB, 80 images, groups ['A', 'B', 'C1', 'C2', 'D', 'E']
+  25/80  257s  eta 565s
+  50/80  515s  eta 309s
+  75/80  774s  eta 52s
+  80/80  825s  eta 0s
+wrote 15 prompt files to <GIAMIA_ROOT>/ov/work_dirs/preds/owlv2-large_panel  (825.7s)

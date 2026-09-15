@@ -1,0 +1,12 @@
+START owlv2-base/panel 16:02:25
+DONE  owlv2-base/panel 16:06:59 rc=0
+START gdino-tiny/panel 16:06:59
+DONE  gdino-tiny/panel 16:10:12 rc=0
+START gdino-base/panel 16:10:12
+DONE  gdino-base/panel 16:14:33 rc=0
+START owlv2-large/panel 16:14:33
+DONE  owlv2-large/panel 16:28:31 rc=0
+PANEL ALL DONE 16:28:31
+START yoloworld/panel 16:28:45
+DONE  yoloworld/panel 16:30:43 rc=0
+PANEL+YW ALL DONE 16:30:43

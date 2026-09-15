@@ -1,0 +1,13 @@
+
+Loading weights:   0%|          | 0/1468 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 1468/1468 [00:00<00:00, 16067.24it/s]
+SAM3 loaded, VRAM 3.38 GB
+  all 50/222  52s
+  all 100/222  108s
+  all 150/222  161s
+  all 200/222  215s
+  all 222/222  240s
+all: 11034 du doan, 0 anh dung fallback
+  panel 50/80  54s
+  panel 80/80  83s
+panel: 3721 du doan, 0 anh dung fallback

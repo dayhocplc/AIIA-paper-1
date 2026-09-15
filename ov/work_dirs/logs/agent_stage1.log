@@ -1,0 +1,56 @@
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 1991.60it/s]
+
+Loading weights:   0%|          | 0/824 [00:00<?, ?it/s]
+Loading weights:   4%|▎         | 29/824 [00:00<00:02, 285.67it/s]
+Loading weights:  12%|█▏        | 100/824 [00:00<00:01, 533.29it/s]
+Loading weights:  21%|██        | 172/824 [00:00<00:01, 613.04it/s]
+Loading weights:  29%|██▉       | 243/824 [00:00<00:00, 650.66it/s]
+Loading weights:  38%|███▊      | 315/824 [00:00<00:00, 669.02it/s]
+Loading weights:  47%|████▋     | 388/824 [00:00<00:00, 680.44it/s]
+Loading weights:  66%|██████▌   | 545/824 [00:00<00:00, 964.93it/s]
+Loading weights: 100%|█████████▉| 821/824 [00:00<00:00, 1509.09it/s]
+Loading weights: 100%|██████████| 824/824 [00:00<00:00, 1007.87it/s]
+MLLM loaded, VRAM 7.51 GB
+  all 25/222  13s eta 106s
+  all 50/222  26s eta 89s
+  all 75/222  38s eta 74s
+  all 100/222  50s eta 62s
+  all 125/222  63s eta 49s
+  all 150/222  75s eta 36s
+  all 175/222  88s eta 24s
+  all 200/222  100s eta 11s
+  all 222/222  111s eta 0s
+  panel 25/80  12s eta 27s
+  panel 50/80  25s eta 15s
+  panel 75/80  37s eta 2s
+  panel 80/80  40s eta 0s
+
+--- kiem tra dieu kien theo anh ---
+  75 bo cum danh tu khac nhau tren 302 anh
+  bo pho bien nhat chiem 39/302 = 12.9%  -> ['grass']
+  OK: dau ra thay doi theo anh
+
+wrote <GIAMIA_ROOT>/ov/work_dirs/sam3_agent_nps.json  (303 anh, 0 anh khong ra NP nao)
+20 cum danh tu pho bien nhat:
+     62  crabgrass
+     40  grass
+     38  cyperus rotundus
+     31  barnyardgrass
+     27  cocksfoot
+     27  sorghum
+     26  panicum
+     24  cocklebur
+     22  solanum nigrum
+     22  sorrel
+     20  eleusine indica
+     18  dandelion
+     17  sicklepod
+     14  sedges
+     13  cyperus esculentus
+     11  nightshade
+     10  solanum dulcamara
+      9  solanum americanum
+      8  amaranth
+      5  chickweed

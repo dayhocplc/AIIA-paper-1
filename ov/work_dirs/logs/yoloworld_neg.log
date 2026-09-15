@@ -1,0 +1,9 @@
+[1/7] A  weed                                67116 preds  maxconf=0.040835  84s
+[2/7] A  weeds                               80179 preds  maxconf=0.224059  149s
+[3/7] C2 unwanted plant among sugarcane      83977 preds  maxconf=0.940598  215s
+[4/7] C2 volunteer plant in a cane field     80580 preds  maxconf=0.610826  280s
+[5/7] C2 plant growing between cane rows     86828 preds  maxconf=0.781724  347s
+[6/7] D  sugarcane                           18759 preds  maxconf=0.101372  413s
+[7/7] D  sugarcane leaf                      46091 preds  maxconf=0.166893  478s
+
+done in 478s; global max confidence = 0.940598

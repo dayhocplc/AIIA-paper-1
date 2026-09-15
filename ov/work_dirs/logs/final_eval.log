@@ -1,0 +1,210 @@
+gdino-base   A  weed                               uIoU 0.406 [0.373-0.438] F1@.5 0.170 AP50 5.9
+gdino-base   A  weeds                              uIoU 0.405 [0.373-0.436] F1@.5 0.170 AP50 6.0
+gdino-base   B  broadleaf plant                    uIoU 0.406 [0.373-0.439] F1@.5 0.124 AP50 3.6
+gdino-base   B  grass                              uIoU 0.401 [0.369-0.434] F1@.5 0.132 AP50 4.1
+gdino-base   B  green plant                        uIoU 0.406 [0.373-0.438] F1@.5 0.182 AP50 6.0
+gdino-base   B  vine                               uIoU 0.404 [0.371-0.435] F1@.5 0.120 AP50 3.4
+gdino-base   C1 plant that is not sugarcane        uIoU 0.406 [0.373-0.439] F1@.5 0.097 AP50 2.7
+gdino-base   C1 vegetation other than the crop     uIoU 0.405 [0.371-0.438] F1@.5 0.085 AP50 3.4
+gdino-base   C2 plant growing between cane rows    uIoU 0.406 [0.373-0.438] F1@.5 0.131 AP50 4.7
+gdino-base   C2 unwanted plant among sugarcane     uIoU 0.405 [0.372-0.438] F1@.5 0.081 AP50 2.7
+gdino-base   C2 volunteer plant in a cane field    uIoU 0.404 [0.371-0.437] F1@.5 0.100 AP50 3.0
+gdino-base   D  sugarcane                          uIoU 0.621 [0.573-0.671] F1@.5 0.341 AP50 20.0
+gdino-base   D  sugarcane leaf                     uIoU 0.637 [0.586-0.687] F1@.5 0.338 AP50 21.6
+gdino-base   E  broad flat green foliage on soil   uIoU 0.399 [0.367-0.431] F1@.5 0.088 AP50 3.0
+gdino-base   E  tall green leafy plant in a field  uIoU 0.403 [0.371-0.436] F1@.5 0.084 AP50 2.7
+gdino-tiny   A  weed                               uIoU 0.402 [0.370-0.434] F1@.5 0.129 AP50 3.6
+gdino-tiny   A  weeds                              uIoU 0.402 [0.370-0.434] F1@.5 0.123 AP50 3.1
+gdino-tiny   B  broadleaf plant                    uIoU 0.402 [0.369-0.434] F1@.5 0.109 AP50 2.8
+gdino-tiny   B  grass                              uIoU 0.401 [0.368-0.433] F1@.5 0.090 AP50 2.0
+gdino-tiny   B  green plant                        uIoU 0.403 [0.370-0.434] F1@.5 0.119 AP50 2.9
+gdino-tiny   B  vine                               uIoU 0.401 [0.368-0.433] F1@.5 0.092 AP50 2.1
+gdino-tiny   C1 plant that is not sugarcane        uIoU 0.404 [0.371-0.436] F1@.5 0.086 AP50 3.0
+gdino-tiny   C1 vegetation other than the crop     uIoU 0.402 [0.370-0.434] F1@.5 0.073 AP50 2.8
+gdino-tiny   C2 plant growing between cane rows    uIoU 0.404 [0.372-0.437] F1@.5 0.103 AP50 3.4
+gdino-tiny   C2 unwanted plant among sugarcane     uIoU 0.402 [0.370-0.435] F1@.5 0.071 AP50 2.2
+gdino-tiny   C2 volunteer plant in a cane field    uIoU 0.401 [0.368-0.433] F1@.5 0.084 AP50 2.3
+gdino-tiny   D  sugarcane                          uIoU 0.609 [0.559-0.658] F1@.5 0.336 AP50 20.7
+gdino-tiny   D  sugarcane leaf                     uIoU 0.643 [0.594-0.690] F1@.5 0.334 AP50 22.0
+gdino-tiny   E  broad flat green foliage on soil   uIoU 0.398 [0.367-0.430] F1@.5 0.078 AP50 2.5
+gdino-tiny   E  tall green leafy plant in a field  uIoU 0.399 [0.368-0.431] F1@.5 0.070 AP50 2.2
+owlv2-base   A  weed                               uIoU 0.380 [0.351-0.411] F1@.5 0.145 AP50 5.3
+owlv2-base   A  weeds                              uIoU 0.380 [0.351-0.412] F1@.5 0.150 AP50 6.0
+owlv2-base   B  broadleaf plant                    uIoU 0.380 [0.351-0.412] F1@.5 0.138 AP50 6.1
+owlv2-base   B  grass                              uIoU 0.378 [0.349-0.408] F1@.5 0.112 AP50 2.4
+owlv2-base   B  green plant                        uIoU 0.379 [0.350-0.411] F1@.5 0.124 AP50 4.0
+owlv2-base   B  vine                               uIoU 0.375 [0.347-0.405] F1@.5 0.063 AP50 1.7
+owlv2-base   C1 plant that is not sugarcane        uIoU 0.378 [0.349-0.409] F1@.5 0.067 AP50 1.3
+owlv2-base   C1 vegetation other than the crop     uIoU 0.380 [0.351-0.412] F1@.5 0.118 AP50 4.0
+owlv2-base   C2 plant growing between cane rows    uIoU 0.379 [0.350-0.411] F1@.5 0.067 AP50 1.6
+owlv2-base   C2 unwanted plant among sugarcane     uIoU 0.378 [0.349-0.409] F1@.5 0.063 AP50 1.1
+owlv2-base   C2 volunteer plant in a cane field    uIoU 0.380 [0.351-0.412] F1@.5 0.095 AP50 2.3
+owlv2-base   D  sugarcane                          uIoU 0.541 [0.497-0.584] F1@.5 0.286 AP50 18.0
+owlv2-base   D  sugarcane leaf                     uIoU 0.527 [0.485-0.571] F1@.5 0.187 AP50 9.0
+owlv2-base   E  broad flat green foliage on soil   uIoU 0.378 [0.349-0.408] F1@.5 0.128 AP50 4.3
+owlv2-base   E  tall green leafy plant in a field  uIoU 0.380 [0.351-0.412] F1@.5 0.123 AP50 3.9
+owlv2-large  A  weed                               uIoU 0.380 [0.350-0.411] F1@.5 0.174 AP50 7.9
+owlv2-large  A  weeds                              uIoU 0.380 [0.350-0.411] F1@.5 0.187 AP50 7.5
+owlv2-large  B  broadleaf plant                    uIoU 0.380 [0.350-0.411] F1@.5 0.155 AP50 8.4
+owlv2-large  B  grass                              uIoU 0.378 [0.349-0.409] F1@.5 0.137 AP50 4.8
+owlv2-large  B  green plant                        uIoU 0.379 [0.350-0.410] F1@.5 0.143 AP50 6.7
+owlv2-large  B  vine                               uIoU 0.373 [0.344-0.404] F1@.5 0.063 AP50 1.4
+owlv2-large  C1 plant that is not sugarcane        uIoU 0.380 [0.351-0.412] F1@.5 0.072 AP50 2.7
+owlv2-large  C1 vegetation other than the crop     uIoU 0.379 [0.350-0.411] F1@.5 0.155 AP50 5.8
+owlv2-large  C2 plant growing between cane rows    uIoU 0.380 [0.350-0.412] F1@.5 0.093 AP50 2.7
+owlv2-large  C2 unwanted plant among sugarcane     uIoU 0.380 [0.351-0.412] F1@.5 0.065 AP50 1.6
+owlv2-large  C2 volunteer plant in a cane field    uIoU 0.381 [0.351-0.412] F1@.5 0.113 AP50 3.8
+owlv2-large  D  sugarcane                          uIoU 0.601 [0.557-0.641] F1@.5 0.273 AP50 15.1
+owlv2-large  D  sugarcane leaf                     uIoU 0.526 [0.482-0.569] F1@.5 0.048 AP50 1.8
+owlv2-large  E  broad flat green foliage on soil   uIoU 0.378 [0.350-0.409] F1@.5 0.121 AP50 4.5
+owlv2-large  E  tall green leafy plant in a field  uIoU 0.380 [0.350-0.411] F1@.5 0.126 AP50 4.8
+sam3         A  weed                               uIoU 0.401 [0.369-0.434] F1@.5 0.164 AP50 8.1
+sam3         A  weeds                              uIoU 0.402 [0.369-0.434] F1@.5 0.176 AP50 7.5
+sam3         B  broadleaf plant                    uIoU 0.402 [0.370-0.435] F1@.5 0.120 AP50 5.4
+sam3         B  grass                              uIoU 0.398 [0.367-0.430] F1@.5 0.153 AP50 5.6
+sam3         B  green plant                        uIoU 0.403 [0.370-0.435] F1@.5 0.182 AP50 8.3
+sam3         B  vine                               uIoU 0.116 [0.085-0.152] F1@.5 0.059 AP50 2.8
+sam3         C1 plant that is not sugarcane        uIoU 0.402 [0.370-0.434] F1@.5 0.163 AP50 6.4
+sam3         C1 vegetation other than the crop     uIoU 0.402 [0.369-0.434] F1@.5 0.152 AP50 5.8
+sam3         C2 plant growing between cane rows    uIoU 0.404 [0.372-0.437] F1@.5 0.185 AP50 6.8
+sam3         C2 unwanted plant among sugarcane     uIoU 0.403 [0.371-0.435] F1@.5 0.188 AP50 7.8
+sam3         C2 volunteer plant in a cane field    uIoU 0.402 [0.370-0.434] F1@.5 0.157 AP50 7.2
+sam3         D  sugarcane                          uIoU 0.400 [0.347-0.455] F1@.5 0.052 AP50 0.9
+sam3         D  sugarcane leaf                     uIoU 0.624 [0.578-0.669] F1@.5 0.023 AP50 0.6
+sam3         E  broad flat green foliage on soil   uIoU 0.401 [0.369-0.433] F1@.5 0.059 AP50 1.4
+sam3         E  tall green leafy plant in a field  uIoU 0.402 [0.370-0.434] F1@.5 0.143 AP50 5.4
+yoloworld-s  A  weed                               uIoU 0.000 [0.000-0.000] F1@.5 0.000 AP50 1.5
+yoloworld-s  A  weeds                              uIoU 0.014 [0.005-0.027] F1@.5 0.004 AP50 1.8
+yoloworld-s  B  broadleaf plant                    uIoU 0.035 [0.020-0.053] F1@.5 0.008 AP50 1.6
+yoloworld-s  B  grass                              uIoU 0.032 [0.018-0.048] F1@.5 0.002 AP50 1.7
+yoloworld-s  B  green plant                        uIoU 0.241 [0.208-0.277] F1@.5 0.047 AP50 1.9
+yoloworld-s  B  vine                               uIoU 0.000 [0.000-0.000] F1@.5 0.000 AP50 1.3
+yoloworld-s  C1 plant that is not sugarcane        uIoU 0.171 [0.142-0.202] F1@.5 0.025 AP50 1.4
+yoloworld-s  C1 vegetation other than the crop     uIoU 0.386 [0.352-0.421] F1@.5 0.068 AP50 2.0
+yoloworld-s  C2 plant growing between cane rows    uIoU 0.234 [0.205-0.266] F1@.5 0.038 AP50 1.4
+yoloworld-s  C2 unwanted plant among sugarcane     uIoU 0.252 [0.223-0.288] F1@.5 0.042 AP50 1.4
+yoloworld-s  C2 volunteer plant in a cane field    uIoU 0.097 [0.074-0.124] F1@.5 0.017 AP50 1.5
+yoloworld-s  D  sugarcane                          uIoU 0.194 [0.142-0.250] F1@.5 0.005 AP50 18.5
+yoloworld-s  D  sugarcane leaf                     uIoU 0.197 [0.144-0.252] F1@.5 0.005 AP50 18.7
+yoloworld-s  E  broad flat green foliage on soil   uIoU 0.394 [0.361-0.427] F1@.5 0.071 AP50 1.7
+yoloworld-s  E  tall green leafy plant in a field  uIoU 0.337 [0.304-0.372] F1@.5 0.054 AP50 2.3
+
+wrote ov/results/eval_main.json  (90 runs)
+222 images; paired same-pixel subset for cross-class contrasts: 180
+
+=== gdino-base ===
+   A   microF1 0.1694   kappa 0.0302
+   B   microF1 0.1381   kappa 0.0259
+   E   microF1 0.0847   kappa 0.0234
+   C1  microF1 0.0892   kappa 0.0350
+   C2  microF1 0.1018   kappa 0.0330
+   D   microF1 0.3620   kappa 0.0164
+   C2-E  relationality (length held constant)   +0.0172 [+0.0087,+0.0259] p=0.0000 *  (microF1@0.50)
+   C1-C2 negation                               -0.0126 [-0.0190,-0.0066] p=0.0000 *  (microF1@0.50)
+   E -A  prompt length / compositionality       -0.0848 [-0.1059,-0.0643] p=0.0000 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         -0.0313 [-0.0438,-0.0196] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0080 [-0.0033,+0.0202] p=0.1752    (kappa(pixel grid))
+
+=== gdino-tiny ===
+   A   microF1 0.1261   kappa 0.0227
+   B   microF1 0.0996   kappa 0.0217
+   E   microF1 0.0722   kappa 0.0161
+   C1  microF1 0.0793   kappa 0.0296
+   C2  microF1 0.0843   kappa 0.0235
+   D   microF1 0.3613   kappa 0.0200
+   C2-E  relationality (length held constant)   +0.0121 [+0.0028,+0.0220] p=0.0068 *  (microF1@0.50)
+   C1-C2 negation                               -0.0050 [-0.0110,+0.0009] p=0.0904    (microF1@0.50)
+   E -A  prompt length / compositionality       -0.0540 [-0.0704,-0.0380] p=0.0000 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         -0.0266 [-0.0392,-0.0142] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0150 [+0.0026,+0.0284] p=0.0112 *  (kappa(pixel grid))
+
+=== owlv2-base ===
+   A   microF1 0.1440   kappa 0.0331
+   B   microF1 0.1009   kappa 0.0228
+   E   microF1 0.1250   kappa 0.0274
+   C1  microF1 0.0918   kappa 0.0221
+   C2  microF1 0.0688   kappa 0.0222
+   D   microF1 0.2398   kappa 0.0587
+   C2-E  relationality (length held constant)   -0.0562 [-0.0685,-0.0448] p=0.0000 *  (microF1@0.50)
+   C1-C2 negation                               +0.0230 [+0.0168,+0.0298] p=0.0000 *  (microF1@0.50)
+   E -A  prompt length / compositionality       -0.0190 [-0.0301,-0.0077] p=0.0012 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         -0.0431 [-0.0545,-0.0322] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0451 [-0.0023,+0.0914] p=0.0640    (kappa(pixel grid))
+
+=== owlv2-large ===
+   A   microF1 0.1760   kappa 0.0548
+   B   microF1 0.1181   kappa 0.0377
+   E   microF1 0.1227   kappa 0.0452
+   C1  microF1 0.1077   kappa 0.0416
+   C2  microF1 0.0893   kappa 0.0399
+   D   microF1 0.1110   kappa 0.1028
+   C2-E  relationality (length held constant)   -0.0335 [-0.0457,-0.0221] p=0.0000 *  (microF1@0.50)
+   C1-C2 negation                               +0.0184 [+0.0117,+0.0253] p=0.0000 *  (microF1@0.50)
+   E -A  prompt length / compositionality       -0.0532 [-0.0665,-0.0406] p=0.0000 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         -0.0579 [-0.0722,-0.0448] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0788 [+0.0330,+0.1218] p=0.0004 *  (kappa(pixel grid))
+
+=== sam3 ===
+   A   microF1 0.1677   kappa 0.0337
+   B   microF1 0.1336   kappa 0.0217
+   E   microF1 0.0984   kappa 0.0338
+   C1  microF1 0.1330   kappa 0.0267
+   C2  microF1 0.1698   kappa 0.0340
+   D   microF1 0.0270   kappa 0.0504
+   C2-E  relationality (length held constant)   +0.0714 [+0.0561,+0.0874] p=0.0000 *  (microF1@0.50)
+   C1-C2 negation                               -0.0368 [-0.0496,-0.0249] p=0.0000 *  (microF1@0.50)
+   E -A  prompt length / compositionality       -0.0693 [-0.0925,-0.0467] p=0.0000 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         -0.0341 [-0.0467,-0.0217] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0373 [+0.0220,+0.0523] p=0.0000 *  (kappa(pixel grid))
+
+=== yoloworld-s ===
+   A   microF1 0.0020   kappa 0.0019
+   B   microF1 0.0152   kappa 0.0098
+   E   microF1 0.0642   kappa 0.0373
+   C1  microF1 0.0472   kappa 0.0227
+   C2  microF1 0.0327   kappa 0.0139
+   D   microF1 0.0052   kappa 0.0016
+   C2-E  relationality (length held constant)   -0.0315 [-0.0427,-0.0207] p=0.0000 *  (microF1@0.50)
+   C1-C2 negation                               +0.0145 [+0.0071,+0.0225] p=0.0000 *  (microF1@0.50)
+   E -A  prompt length / compositionality       +0.0622 [+0.0468,+0.0804] p=0.0000 *  (microF1@0.50)
+   B -A  morphological vs abstract noun         +0.0132 [+0.0082,+0.0193] p=0.0000 *  (microF1@0.50)
+   D -A  category type (nominal vs relational)  +0.0016 [-0.0000,+0.0040] p=0.0900    (kappa(pixel grid))
+
+wrote ov/results/contrasts.json
+size band 5.0-40.0 % of frame: 363 weed boxes, 203 sugarcane boxes
+images with in-band boxes of BOTH classes: 95
+
+gdino-base   uncontrolled  A 0.1444  D 0.2047  D-A +0.0603 [-0.0049,+0.1285] p=0.0672 
+gdino-base   size_matched  A 0.1546  D 0.0962  D-A -0.0584 [-0.1153,-0.0034] p=0.0368 *
+gdino-tiny   uncontrolled  A 0.1047  D 0.2074  D-A +0.1026 [+0.0466,+0.1597] p=0.0000 *
+gdino-tiny   size_matched  A 0.1302  D 0.1007  D-A -0.0295 [-0.0857,+0.0278] p=0.2908 
+owlv2-base   uncontrolled  A 0.1250  D 0.1773  D-A +0.0523 [+0.0128,+0.0923] p=0.0132 *
+owlv2-base   size_matched  A 0.1744  D 0.1200  D-A -0.0543 [-0.1016,-0.0050] p=0.0276 *
+owlv2-large  uncontrolled  A 0.1598  D 0.1037  D-A -0.0560 [-0.0886,-0.0218] p=0.0020 *
+owlv2-large  size_matched  A 0.2358  D 0.1054  D-A -0.1304 [-0.1813,-0.0777] p=0.0000 *
+sam3         uncontrolled  A 0.1602  D 0.0283  D-A -0.1319 [-0.1754,-0.0864] p=0.0000 *
+sam3         size_matched  A 0.1911  D 0.0597  D-A -0.1314 [-0.1873,-0.0772] p=0.0000 *
+yoloworld-s  uncontrolled  A 0.0000  D 0.0041  D-A +0.0041 [+0.0000,+0.0126] p=0.7156 
+yoloworld-s  size_matched  A 0.0000  D 0.0000  D-A +0.0000 [+0.0000,+0.0000] p=2.0000 
+
+wrote <GIAMIA_ROOT>/ov/results/size_matched.json
+supervised RTMDet  microF1 0.4172   uIoU 0.5353  (n=16200 preds over 54 images)
+
+top-5 OV configurations on the 54-image test split (micro-F1 @ IoU 0.50):
+  0.1941  sam3|C2|unwanted plant among sugarcane
+  0.1916  sam3|C2|plant growing between cane rows
+  0.1854  sam3|B|green plant
+  0.1844  sam3|A|weeds
+  0.1802  sam3|C1|plant that is not sugarcane
+
+best OV (sam3|C2|unwanted plant among sugarcane)  vs  supervised RTMDet
+  0.1941 vs 0.4172   diff -0.2230 [-0.3020, -0.1473]  DISTINGUISHABLE
+  label-noise ceiling F1 = 0.399 [0.342-0.454]; expert-expert = 0.391
+
+wrote <GIAMIA_ROOT>/ov/results/vs_supervised.json
+fig3_annotation_protocol.png
+fig1_prompt_groups.png
+fig2_contrasts.png
+fig4_false_alarms.png
+fig5_confound_reversal.png
+FINAL ALL DONE 17:41:05

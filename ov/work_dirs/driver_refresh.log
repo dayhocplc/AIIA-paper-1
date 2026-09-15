@@ -1,0 +1,114 @@
+=== 06_negatives 16:37:29 ===
+gdino-base   A  weed                            thr=0.14  FALSE 100.0% of images fire  (2.08 det/img)
+gdino-base   A  weeds                           thr=0.13  FALSE 100.0% of images fire  (2.55 det/img)
+gdino-base   C2 plant growing between cane rows thr=0.09  FALSE 100.0% of images fire  (4.15 det/img)
+gdino-base   C2 unwanted plant among sugarcane  thr=0.21  FALSE 100.0% of images fire  (2.27 det/img)
+gdino-base   C2 volunteer plant in a cane field thr=0.07  FALSE 100.0% of images fire  (3.48 det/img)
+gdino-base   D  sugarcane                       thr=0.32  TPR  100.0% of images fire  (1.05 det/img)
+gdino-base   D  sugarcane leaf                  thr=0.36  TPR   99.7% of images fire  (1.02 det/img)
+gdino-tiny   A  weed                            thr=0.07  FALSE 100.0% of images fire  (4.16 det/img)
+gdino-tiny   A  weeds                           thr=0.06  FALSE 100.0% of images fire  (5.90 det/img)
+gdino-tiny   C2 plant growing between cane rows thr=0.11  FALSE 100.0% of images fire  (3.64 det/img)
+gdino-tiny   C2 unwanted plant among sugarcane  thr=0.16  FALSE 100.0% of images fire  (2.63 det/img)
+gdino-tiny   C2 volunteer plant in a cane field thr=0.10  FALSE 100.0% of images fire  (3.04 det/img)
+gdino-tiny   D  sugarcane                       thr=0.41  TPR   99.4% of images fire  (1.00 det/img)
+gdino-tiny   D  sugarcane leaf                  thr=0.51  TPR   93.8% of images fire  (0.94 det/img)
+owlv2-base   A  weed                            thr=0.08  FALSE 100.0% of images fire  (2.79 det/img)
+owlv2-base   A  weeds                           thr=0.12  FALSE 100.0% of images fire  (2.59 det/img)
+owlv2-base   C2 plant growing between cane rows thr=0.21  FALSE  99.9% of images fire  (4.62 det/img)
+owlv2-base   C2 unwanted plant among sugarcane  thr=0.11  FALSE  99.9% of images fire  (6.82 det/img)
+owlv2-base   C2 volunteer plant in a cane field thr=0.12  FALSE 100.0% of images fire  (4.24 det/img)
+owlv2-base   D  sugarcane                       thr=0.12  TPR   77.1% of images fire  (2.15 det/img)
+owlv2-base   D  sugarcane leaf                  thr=0.16  TPR   88.5% of images fire  (5.30 det/img)
+owlv2-large  A  weed                            thr=0.12  FALSE 100.0% of images fire  (3.33 det/img)
+owlv2-large  A  weeds                           thr=0.19  FALSE 100.0% of images fire  (2.37 det/img)
+owlv2-large  C2 plant growing between cane rows thr=0.24  FALSE 100.0% of images fire  (3.58 det/img)
+owlv2-large  C2 unwanted plant among sugarcane  thr=0.19  FALSE 100.0% of images fire  (7.43 det/img)
+owlv2-large  C2 volunteer plant in a cane field thr=0.18  FALSE 100.0% of images fire  (5.99 det/img)
+owlv2-large  D  sugarcane                       thr=0.21  TPR   88.3% of images fire  (2.79 det/img)
+owlv2-large  D  sugarcane leaf                  thr=0.18  TPR  100.0% of images fire  (21.90 det/img)
+sam3         A  weed                            thr=0.22  FALSE  72.3% of images fire  (1.44 det/img)
+sam3         A  weeds                           thr=0.28  FALSE  99.3% of images fire  (1.71 det/img)
+sam3         C2 plant growing between cane rows thr=0.27  FALSE 100.0% of images fire  (1.56 det/img)
+sam3         C2 unwanted plant among sugarcane  thr=0.19  FALSE 100.0% of images fire  (2.79 det/img)
+sam3         C2 volunteer plant in a cane field thr=0.14  FALSE  99.9% of images fire  (1.80 det/img)
+sam3         D  sugarcane                       thr=0.02  TPR   74.8% of images fire  (11.85 det/img)
+sam3         D  sugarcane leaf                  thr=0.18  TPR   96.2% of images fire  (74.20 det/img)
+yoloworld-s  A  weed                            thr=0.02  FALSE   0.3% of images fire  (0.00 det/img)
+yoloworld-s  A  weeds                           thr=0.02  FALSE  34.6% of images fire  (0.35 det/img)
+yoloworld-s  C2 plant growing between cane rows thr=0.02  FALSE  99.2% of images fire  (1.68 det/img)
+yoloworld-s  C2 unwanted plant among sugarcane  thr=0.02  FALSE  99.8% of images fire  (1.92 det/img)
+yoloworld-s  C2 volunteer plant in a cane field thr=0.02  FALSE  78.6% of images fire  (0.84 det/img)
+yoloworld-s  D  sugarcane                       thr=0.02  TPR    5.6% of images fire  (0.06 det/img)
+yoloworld-s  D  sugarcane leaf                  thr=0.02  TPR   16.7% of images fire  (0.18 det/img)
+
+wrote <GIAMIA_ROOT>/ov/results/negatives.json  (42 runs, n=869 images)
+=== 08_tables 16:37:36 ===
+=== 05_figures 16:37:36 ===
+fig3_annotation_protocol.png
+fig1_prompt_groups.png
+fig2_contrasts.png
+fig4_false_alarms.png
+fig5_confound_reversal.png
+fig6_sam3_agent.png
+=== 20_qualitative_figures 16:37:38 ===
+figQ1  SugarcaneWeedsMix/i2857.jpg  weeds=8 canes=3
+figQ2  gdino-tiny:weed@0.07, gdino-base:green plant@0.1, owlv2-base:weeds@0.12, owlv2-large:weeds@0.19, sam3:unwanted plant among sugarcane@0.19, yoloworld-s:broad flat green foliage on soil@0.02
+figQ3  gdino-tiny@0.07, gdino-base@0.14, owlv2-base@0.08, owlv2-large@0.12, sam3@0.22, yoloworld-s@0.02
+
+wrote figQ1/figQ2/figQ3 to ov/figures/
+=== 21_model_costs (GPU now idle) 16:38:19 ===
+
+Loading weights:   0%|          | 0/418 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 418/418 [00:00<00:00, 4566.25it/s]
+owlv2-base     {'params_M': 155.0, 'latency_ms_median': 122.2, 'latency_ms_p5_p95': [121.4, 123.8], 'peak_vram_GB': 0.76, 'peak_vram_reserved_GB': 0.85}
+
+Loading weights:   0%|          | 0/610 [00:00<?, ?it/s]
+Loading weights:  70%|███████   | 427/610 [00:00<00:00, 4256.87it/s]
+Loading weights: 100%|██████████| 610/610 [00:00<00:00, 4506.82it/s]
+owlv2-large    {'params_M': 437.6, 'latency_ms_median': 584.2, 'latency_ms_p5_p95': [579.1, 589.3], 'peak_vram_GB': 1.96, 'peak_vram_reserved_GB': 2.09}
+
+Loading weights:   0%|          | 0/978 [00:00<?, ?it/s]
+Loading weights:  77%|███████▋  | 755/978 [00:00<00:00, 7511.56it/s]
+Loading weights: 100%|██████████| 978/978 [00:00<00:00, 6539.44it/s]
+gdino-tiny     {'params_M': 172.3, 'latency_ms_median': 100.1, 'latency_ms_p5_p95': [98.9, 102.0], 'peak_vram_GB': 1.43, 'peak_vram_reserved_GB': 1.72}
+
+Loading weights:   0%|          | 0/1182 [00:00<?, ?it/s]
+Loading weights:  55%|█████▍    | 649/1182 [00:00<00:00, 6446.95it/s]
+Loading weights: 100%|██████████| 1182/1182 [00:00<00:00, 5967.19it/s]
+gdino-base     {'params_M': 232.3, 'latency_ms_median': 139.5, 'latency_ms_p5_p95': [137.5, 141.4], 'peak_vram_GB': 1.67, 'peak_vram_reserved_GB': 1.88}
+yoloworld-s    {'params_M': 164.0, 'latency_ms_median': 5.6, 'latency_ms_p5_p95': [4.9, 6.1], 'peak_vram_GB': 0.66, 'peak_vram_reserved_GB': 0.73}
+
+Loading weights:   0%|          | 0/1468 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 1468/1468 [00:00<00:00, 16607.52it/s]
+sam3           {'params_M': 840.4, 'latency_ms_median': 533.0, 'latency_ms_p5_p95': [529.0, 538.1], 'peak_vram_GB': 3.71, 'peak_vram_reserved_GB': 4.21}
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 1427.61it/s]
+
+Loading weights:   0%|          | 0/824 [00:00<?, ?it/s]
+Loading weights:   0%|          | 1/824 [00:01<14:28,  1.06s/it]
+Loading weights:  16%|█▋        | 135/824 [00:01<00:04, 152.55it/s]
+Loading weights:  23%|██▎       | 190/824 [00:01<00:03, 169.42it/s]
+Loading weights:  28%|██▊       | 230/824 [00:01<00:03, 168.36it/s]
+Loading weights:  32%|███▏      | 261/824 [00:01<00:03, 158.14it/s]
+Loading weights:  35%|███▍      | 286/824 [00:02<00:03, 159.41it/s]
+Loading weights:  37%|███▋      | 308/824 [00:02<00:03, 153.42it/s]
+Loading weights:  40%|███▉      | 327/824 [00:02<00:03, 149.87it/s]
+Loading weights:  43%|████▎     | 351/824 [00:02<00:03, 151.29it/s]
+Loading weights:  46%|████▌     | 375/824 [00:02<00:02, 152.81it/s]
+Loading weights:  48%|████▊     | 392/824 [00:02<00:02, 155.08it/s]
+Loading weights:  50%|████▉     | 411/824 [00:02<00:02, 145.39it/s]
+Loading weights:  52%|█████▏    | 427/824 [00:03<00:02, 148.09it/s]
+Loading weights:  60%|█████▉    | 492/824 [00:03<00:01, 267.73it/s]
+Loading weights:  66%|██████▋   | 546/824 [00:03<00:00, 331.82it/s]
+Loading weights:  74%|███████▎  | 606/824 [00:03<00:00, 393.61it/s]
+Loading weights:  81%|████████  | 666/824 [00:03<00:00, 438.93it/s]
+Loading weights:  88%|████████▊ | 726/824 [00:03<00:00, 475.32it/s]
+Loading weights:  95%|█████████▌| 786/824 [00:03<00:00, 505.15it/s]
+Loading weights: 100%|██████████| 824/824 [00:03<00:00, 218.24it/s]
+qwen2.5-vl-3b  {'params_M': 3754.6}
+rtmdet         FAILED ModuleNotFoundError: No module named 'mmdet'
+
+wrote <GIAMIA_ROOT>/ov/results/model_costs.json
+ALL REFRESH DONE 16:40:06

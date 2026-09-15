@@ -1,0 +1,13 @@
+START owlv2-base/all 18:50:21
+DONE  owlv2-base/all 19:02:40 rc=0  13 log lines
+START gdino-tiny/all 19:02:40
+DONE  gdino-tiny/all 19:11:15 rc=0  13 log lines
+START gdino-base/all 19:11:15
+DONE  gdino-base/all 19:24:08 rc=0  13 log lines
+START owlv2-large/all 19:24:08
+DONE  owlv2-large/all 20:04:55 rc=0  13 log lines
+START owlv2-base/neg 20:04:55
+DONE  owlv2-base/neg 20:27:35 rc=0  39 log lines
+START gdino-tiny/neg 20:27:35
+DONE  gdino-tiny/neg 20:43:41 rc=0  39 log lines
+ALL DONE 20:43:41

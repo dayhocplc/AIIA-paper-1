@@ -1,0 +1,2373 @@
+{
+ "all|0": {
+  "file_name": "weeds/i1255.jpg",
+  "raw": "Cocksfoot, Bristly Stinkgrass",
+  "nps": [
+   "cocksfoot",
+   "bristly stinkgrass"
+  ]
+ },
+ "all|1": {
+  "file_name": "weeds/i1356.jpg",
+  "raw": "Cocksfoot, Sickle Bristlegrass",
+  "nps": [
+   "cocksfoot",
+   "sickle bristlegrass"
+  ]
+ },
+ "all|2": {
+  "file_name": "weeds/i1400.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|3": {
+  "file_name": "weeds/i1450.jpg",
+  "raw": "Sorrel, Purslane",
+  "nps": [
+   "sorrel",
+   "purslane"
+  ]
+ },
+ "all|4": {
+  "file_name": "weeds/i1453.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|5": {
+  "file_name": "weeds/i1477.jpg",
+  "raw": "Solanum dulcamara",
+  "nps": [
+   "solanum dulcamara"
+  ]
+ },
+ "all|6": {
+  "file_name": "weeds/i1576.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|7": {
+  "file_name": "weeds/i1618.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|8": {
+  "file_name": "weeds/i1627.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|9": {
+  "file_name": "weeds/i1667.jpg",
+  "raw": "Knotweed, Burweed",
+  "nps": [
+   "knotweed",
+   "burweed"
+  ]
+ },
+ "all|10": {
+  "file_name": "weeds/i1860.jpg",
+  "raw": "Solanum nigrum, Solanum dulcamara",
+  "nps": [
+   "solanum nigrum",
+   "solanum dulcamara"
+  ]
+ },
+ "all|11": {
+  "file_name": "weeds/i1940.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|12": {
+  "file_name": "weeds/i1943.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|13": {
+  "file_name": "weeds/i1961.jpg",
+  "raw": "Nightshade, Wild potato",
+  "nps": [
+   "nightshade",
+   "wild potato"
+  ]
+ },
+ "all|14": {
+  "file_name": "weeds/i1964.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|15": {
+  "file_name": "weeds/i1977.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|16": {
+  "file_name": "weeds/i2030.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|17": {
+  "file_name": "weeds/i2074.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|18": {
+  "file_name": "SugarcaneWeedsMix/i2825.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "all|19": {
+  "file_name": "SugarcaneWeedsMix/i2835.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|20": {
+  "file_name": "SugarcaneWeedsMix/i2846.jpg",
+  "raw": "Bromus tectorum, Echinochloa crus-galli",
+  "nps": [
+   "bromus tectorum",
+   "echinochloa crus-galli"
+  ]
+ },
+ "all|21": {
+  "file_name": "SugarcaneWeedsMix/i2847.jpg",
+  "raw": "Cocklebur, Sicklepod, Wild Oat",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "wild oat"
+  ]
+ },
+ "all|22": {
+  "file_name": "SugarcaneWeedsMix/i2854.jpg",
+  "raw": "Dandelion, Clover",
+  "nps": [
+   "dandelion",
+   "clover"
+  ]
+ },
+ "all|23": {
+  "file_name": "SugarcaneWeedsMix/i2865.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|24": {
+  "file_name": "SugarcaneWeedsMix/i2867.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|25": {
+  "file_name": "SugarcaneWeedsMix/i2883.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|26": {
+  "file_name": "SugarcaneWeedsMix/i2894.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|27": {
+  "file_name": "SugarcaneWeedsMix/i2902.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|28": {
+  "file_name": "SugarcaneWeedsMix/i2913.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|29": {
+  "file_name": "SugarcaneWeedsMix/i2916.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|30": {
+  "file_name": "SugarcaneWeedsMix/i2920.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|31": {
+  "file_name": "SugarcaneWeedsMix/i2937.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|32": {
+  "file_name": "SugarcaneWeedsMix/i2956.jpg",
+  "raw": "Dandelion, Clover",
+  "nps": [
+   "dandelion",
+   "clover"
+  ]
+ },
+ "all|33": {
+  "file_name": "SugarcaneWeedsMix/i2973.jpg",
+  "raw": "Pink flower, small green plant",
+  "nps": [
+   "pink flower",
+   "small green plant"
+  ]
+ },
+ "all|34": {
+  "file_name": "SugarcaneWeedsMix/i2974.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|35": {
+  "file_name": "SugarcaneWeedsMix/i2987.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|36": {
+  "file_name": "SugarcaneWeedsMix/i3005.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|37": {
+  "file_name": "SugarcaneWeedsMix/i3006.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|38": {
+  "file_name": "SugarcaneWeedsMix/i3028.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|39": {
+  "file_name": "SugarcaneWeedsMix/i3031.jpg",
+  "raw": "Solanum dulcamara",
+  "nps": [
+   "solanum dulcamara"
+  ]
+ },
+ "all|40": {
+  "file_name": "SugarcaneWeedsMix/i3036.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|41": {
+  "file_name": "SugarcaneWeedsMix/i3043.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|42": {
+  "file_name": "SugarcaneWeedsMix/i3046.jpg",
+  "raw": "Cocksfoot, Sickle Bristlegrass",
+  "nps": [
+   "cocksfoot",
+   "sickle bristlegrass"
+  ]
+ },
+ "all|43": {
+  "file_name": "SugarcaneWeedsMix/i3051.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|44": {
+  "file_name": "SugarcaneWeedsMix/i3059.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "all|45": {
+  "file_name": "SugarcaneWeedsMix/i3060.jpg",
+  "raw": "Sugarcane aphid, sugarcane borer, sugarcane fly, sugarcane weevil",
+  "nps": [
+   "sugarcane aphid",
+   "sugarcane borer",
+   "sugarcane fly"
+  ]
+ },
+ "all|46": {
+  "file_name": "SugarcaneWeedsMix/i3065.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|47": {
+  "file_name": "SugarcaneWeedsMix/i3072.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|48": {
+  "file_name": "SugarcaneWeedsMix/i3079.jpg",
+  "raw": "Cocksfoot, Bristly Stinkgrass",
+  "nps": [
+   "cocksfoot",
+   "bristly stinkgrass"
+  ]
+ },
+ "all|49": {
+  "file_name": "SugarcaneWeedsMix/i3086.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|50": {
+  "file_name": "SugarcaneWeedsMix/i3102.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|51": {
+  "file_name": "SugarcaneWeedsMix/i3107.jpg",
+  "raw": "Dandelion, Clover",
+  "nps": [
+   "dandelion",
+   "clover"
+  ]
+ },
+ "all|52": {
+  "file_name": "SugarcaneWeedsMix/i3114.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|53": {
+  "file_name": "SugarcaneWeedsMix/i3115.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|54": {
+  "file_name": "SugarcaneWeedsMix/i3121.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|55": {
+  "file_name": "SugarcaneWeedsMix/i3122.jpg",
+  "raw": "Rice grass, Sedge grass",
+  "nps": [
+   "rice grass",
+   "sedge grass"
+  ]
+ },
+ "all|56": {
+  "file_name": "SugarcaneWeedsMix/i3130.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|57": {
+  "file_name": "SugarcaneWeedsMix/i3135.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|58": {
+  "file_name": "SugarcaneWeedsMix/i3141.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|59": {
+  "file_name": "SugarcaneWeedsMix/i3146.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|60": {
+  "file_name": "SugarcaneWeedsMix/i3169.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|61": {
+  "file_name": "SugarcaneWeedsMix/i3183.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|62": {
+  "file_name": "SugarcaneWeedsMix/i3189.jpg",
+  "raw": "Sesbania, Amaranthus, and others",
+  "nps": [
+   "sesbania",
+   "amaranthus",
+   "and others"
+  ]
+ },
+ "all|63": {
+  "file_name": "SugarcaneWeedsMix/i3191.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|64": {
+  "file_name": "SugarcaneWeedsMix/i3198.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|65": {
+  "file_name": "SugarcaneWeedsMix/i3204.jpg",
+  "raw": "Nightshade, Wild potato",
+  "nps": [
+   "nightshade",
+   "wild potato"
+  ]
+ },
+ "all|66": {
+  "file_name": "SugarcaneWeedsMix/i3205.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|67": {
+  "file_name": "SugarcaneWeedsMix/i3207.jpg",
+  "raw": "Chickweed, Dandelion",
+  "nps": [
+   "chickweed",
+   "dandelion"
+  ]
+ },
+ "all|68": {
+  "file_name": "SugarcaneWeedsMix/i3219.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|69": {
+  "file_name": "SugarcaneWeedsMix/i3227.jpg",
+  "raw": "Sorrel, dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "all|70": {
+  "file_name": "SugarcaneWeedsMix/i2826.jpg",
+  "raw": "Sorrel, chickweed",
+  "nps": [
+   "sorrel",
+   "chickweed"
+  ]
+ },
+ "all|71": {
+  "file_name": "SugarcaneWeedsMix/i2827.jpg",
+  "raw": "Cocksfoot, Salsola kali",
+  "nps": [
+   "cocksfoot",
+   "salsola kali"
+  ]
+ },
+ "all|72": {
+  "file_name": "SugarcaneWeedsMix/i2828.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|73": {
+  "file_name": "SugarcaneWeedsMix/i2831.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|74": {
+  "file_name": "SugarcaneWeedsMix/i2837.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|75": {
+  "file_name": "SugarcaneWeedsMix/i2838.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|76": {
+  "file_name": "SugarcaneWeedsMix/i2856.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|77": {
+  "file_name": "SugarcaneWeedsMix/i2858.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|78": {
+  "file_name": "SugarcaneWeedsMix/i2885.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|79": {
+  "file_name": "SugarcaneWeedsMix/i2893.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|80": {
+  "file_name": "SugarcaneWeedsMix/i2901.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|81": {
+  "file_name": "SugarcaneWeedsMix/i2905.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|82": {
+  "file_name": "SugarcaneWeedsMix/i2906.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|83": {
+  "file_name": "SugarcaneWeedsMix/i2926.jpg",
+  "raw": "Sorrel, Bristly St. John's Wort",
+  "nps": [
+   "sorrel",
+   "bristly st. john's wort"
+  ]
+ },
+ "all|84": {
+  "file_name": "SugarcaneWeedsMix/i2944.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|85": {
+  "file_name": "SugarcaneWeedsMix/i2960.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|86": {
+  "file_name": "SugarcaneWeedsMix/i2971.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|87": {
+  "file_name": "SugarcaneWeedsMix/i2972.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|88": {
+  "file_name": "SugarcaneWeedsMix/i2977.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|89": {
+  "file_name": "SugarcaneWeedsMix/i2980.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|90": {
+  "file_name": "SugarcaneWeedsMix/i2992.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|91": {
+  "file_name": "SugarcaneWeedsMix/i2999.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|92": {
+  "file_name": "SugarcaneWeedsMix/i3014.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|93": {
+  "file_name": "SugarcaneWeedsMix/i3019.jpg",
+  "raw": "Sorghum, Amaranthus, Digitaria, Panicum, Eleusine, Setaria",
+  "nps": [
+   "sorghum",
+   "amaranthus",
+   "digitaria"
+  ]
+ },
+ "all|94": {
+  "file_name": "SugarcaneWeedsMix/i3033.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|95": {
+  "file_name": "SugarcaneWeedsMix/i3048.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|96": {
+  "file_name": "SugarcaneWeedsMix/i3081.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|97": {
+  "file_name": "SugarcaneWeedsMix/i3083.jpg",
+  "raw": "Cocksfoot, Bristly Stinkgrass",
+  "nps": [
+   "cocksfoot",
+   "bristly stinkgrass"
+  ]
+ },
+ "all|98": {
+  "file_name": "SugarcaneWeedsMix/i3084.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|99": {
+  "file_name": "SugarcaneWeedsMix/i3095.jpg",
+  "raw": "Cleavers, Dandelion",
+  "nps": [
+   "cleavers",
+   "dandelion"
+  ]
+ },
+ "all|100": {
+  "file_name": "SugarcaneWeedsMix/i3104.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|101": {
+  "file_name": "SugarcaneWeedsMix/i3109.jpg",
+  "raw": "Cleavers, Dandelion",
+  "nps": [
+   "cleavers",
+   "dandelion"
+  ]
+ },
+ "all|102": {
+  "file_name": "SugarcaneWeedsMix/i3110.jpg",
+  "raw": "White flowers, small green leaves",
+  "nps": [
+   "white flowers",
+   "small green leaves"
+  ]
+ },
+ "all|103": {
+  "file_name": "SugarcaneWeedsMix/i3140.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|104": {
+  "file_name": "SugarcaneWeedsMix/i3161.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|105": {
+  "file_name": "SugarcaneWeedsMix/i3192.jpg",
+  "raw": "Nightshade, Solanum spp.",
+  "nps": [
+   "nightshade",
+   "solanum spp"
+  ]
+ },
+ "all|106": {
+  "file_name": "SugarcaneWeedsMix/i3210.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "all|107": {
+  "file_name": "SugarcaneWeedsMix/i3212.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|108": {
+  "file_name": "SugarcaneWeedsMix/i3214.jpg",
+  "raw": "Cocksfoot, Crabgrass",
+  "nps": [
+   "cocksfoot",
+   "crabgrass"
+  ]
+ },
+ "all|109": {
+  "file_name": "SugarcaneWeedsMix/i3223.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|110": {
+  "file_name": "SugarcaneWeedsMix/i3229.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|111": {
+  "file_name": "weeds/i1422.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|112": {
+  "file_name": "weeds/i1427.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "all|113": {
+  "file_name": "weeds/i1666.jpg",
+  "raw": "Sorrel, Purslane",
+  "nps": [
+   "sorrel",
+   "purslane"
+  ]
+ },
+ "all|114": {
+  "file_name": "weeds/i1729.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|115": {
+  "file_name": "weeds/i1318.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "all|116": {
+  "file_name": "weeds/i1646.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|117": {
+  "file_name": "weeds/i1681.jpg",
+  "raw": "Sorrel, crabgrass",
+  "nps": [
+   "sorrel",
+   "crabgrass"
+  ]
+ },
+ "all|118": {
+  "file_name": "weeds/i1801.jpg",
+  "raw": "Barnyardgrass, Panicum dichotomiflorum",
+  "nps": [
+   "barnyardgrass",
+   "panicum dichotomiflorum"
+  ]
+ },
+ "all|119": {
+  "file_name": "weeds/i1999.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|120": {
+  "file_name": "SugarcaneWeedsMix/i2829.jpg",
+  "raw": "Cucumber, Radish",
+  "nps": [
+   "cucumber",
+   "radish"
+  ]
+ },
+ "all|121": {
+  "file_name": "SugarcaneWeedsMix/i2832.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|122": {
+  "file_name": "SugarcaneWeedsMix/i2864.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|123": {
+  "file_name": "SugarcaneWeedsMix/i2915.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|124": {
+  "file_name": "SugarcaneWeedsMix/i2928.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|125": {
+  "file_name": "SugarcaneWeedsMix/i2936.jpg",
+  "raw": "Potato, Nettle",
+  "nps": [
+   "potato",
+   "nettle"
+  ]
+ },
+ "all|126": {
+  "file_name": "SugarcaneWeedsMix/i2953.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|127": {
+  "file_name": "SugarcaneWeedsMix/i2957.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|128": {
+  "file_name": "SugarcaneWeedsMix/i2991.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|129": {
+  "file_name": "SugarcaneWeedsMix/i2998.jpg",
+  "raw": "Cocksfoot, Sedge",
+  "nps": [
+   "cocksfoot",
+   "sedge"
+  ]
+ },
+ "all|130": {
+  "file_name": "SugarcaneWeedsMix/i3001.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|131": {
+  "file_name": "SugarcaneWeedsMix/i3003.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|132": {
+  "file_name": "SugarcaneWeedsMix/i3004.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|133": {
+  "file_name": "SugarcaneWeedsMix/i3012.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|134": {
+  "file_name": "SugarcaneWeedsMix/i3047.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|135": {
+  "file_name": "SugarcaneWeedsMix/i3076.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "all|136": {
+  "file_name": "SugarcaneWeedsMix/i3119.jpg",
+  "raw": "Bamboo grass, Sickle bentgrass",
+  "nps": [
+   "bamboo grass",
+   "sickle bentgrass"
+  ]
+ },
+ "all|137": {
+  "file_name": "SugarcaneWeedsMix/i3149.jpg",
+  "raw": "Sorrel, Crabgrass",
+  "nps": [
+   "sorrel",
+   "crabgrass"
+  ]
+ },
+ "all|138": {
+  "file_name": "SugarcaneWeedsMix/i3150.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|139": {
+  "file_name": "SugarcaneWeedsMix/i3156.jpg",
+  "raw": "Sugarcane, Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|140": {
+  "file_name": "SugarcaneWeedsMix/i3164.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "all|141": {
+  "file_name": "SugarcaneWeedsMix/i3184.jpg",
+  "raw": "Small white flowers, green leaves",
+  "nps": [
+   "small white flowers",
+   "green leaves"
+  ]
+ },
+ "all|142": {
+  "file_name": "SugarcaneWeedsMix/i3213.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|143": {
+  "file_name": "SugarcaneWeedsMix/i2833.jpg",
+  "raw": "Potato, Nightshade",
+  "nps": [
+   "potato",
+   "nightshade"
+  ]
+ },
+ "all|144": {
+  "file_name": "SugarcaneWeedsMix/i2839.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|145": {
+  "file_name": "SugarcaneWeedsMix/i2840.jpg",
+  "raw": "Small white flowers, green leaves.",
+  "nps": [
+   "small white flowers",
+   "green leaves"
+  ]
+ },
+ "all|146": {
+  "file_name": "SugarcaneWeedsMix/i2857.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|147": {
+  "file_name": "SugarcaneWeedsMix/i2866.jpg",
+  "raw": "Sand dune grass, Beach grass",
+  "nps": [
+   "sand dune grass",
+   "beach grass"
+  ]
+ },
+ "all|148": {
+  "file_name": "SugarcaneWeedsMix/i2874.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|149": {
+  "file_name": "SugarcaneWeedsMix/i2880.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|150": {
+  "file_name": "SugarcaneWeedsMix/i2888.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|151": {
+  "file_name": "SugarcaneWeedsMix/i2918.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|152": {
+  "file_name": "SugarcaneWeedsMix/i2924.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|153": {
+  "file_name": "SugarcaneWeedsMix/i2929.jpg",
+  "raw": "Cocksfoot, Sedge",
+  "nps": [
+   "cocksfoot",
+   "sedge"
+  ]
+ },
+ "all|154": {
+  "file_name": "SugarcaneWeedsMix/i2959.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|155": {
+  "file_name": "SugarcaneWeedsMix/i2989.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|156": {
+  "file_name": "SugarcaneWeedsMix/i3007.jpg",
+  "raw": "Cocksfoot, Sickle Bristlegrass",
+  "nps": [
+   "cocksfoot",
+   "sickle bristlegrass"
+  ]
+ },
+ "all|157": {
+  "file_name": "SugarcaneWeedsMix/i3011.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "all|158": {
+  "file_name": "SugarcaneWeedsMix/i3092.jpg",
+  "raw": "Cleavers, chickweed",
+  "nps": [
+   "cleavers",
+   "chickweed"
+  ]
+ },
+ "all|159": {
+  "file_name": "SugarcaneWeedsMix/i3097.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|160": {
+  "file_name": "SugarcaneWeedsMix/i3113.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|161": {
+  "file_name": "SugarcaneWeedsMix/i3126.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|162": {
+  "file_name": "SugarcaneWeedsMix/i3195.jpg",
+  "raw": "Cocksfoot, Bristly Stinkgrass",
+  "nps": [
+   "cocksfoot",
+   "bristly stinkgrass"
+  ]
+ },
+ "all|163": {
+  "file_name": "SugarcaneWeedsMix/i3199.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|164": {
+  "file_name": "SugarcaneWeedsMix/i3221.jpg",
+  "raw": "Sorghum, Panicum, Eleusine, Digitaria",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine"
+  ]
+ },
+ "all|165": {
+  "file_name": "SugarcaneWeedsMix/i3230.jpg",
+  "raw": "Riceweed, Watercress",
+  "nps": [
+   "riceweed",
+   "watercress"
+  ]
+ },
+ "all|166": {
+  "file_name": "sugarcane/i3244.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|167": {
+  "file_name": "weeds/i1295.jpg",
+  "raw": "Dandelion, Broadleaf Cress",
+  "nps": [
+   "dandelion",
+   "broadleaf cress"
+  ]
+ },
+ "all|168": {
+  "file_name": "weeds/i1310.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|169": {
+  "file_name": "weeds/i1321.jpg",
+  "raw": "Sugarcane, Sorghum, Panicum, Pennisetum",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "pennisetum"
+  ]
+ },
+ "all|170": {
+  "file_name": "weeds/i1334.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "all|171": {
+  "file_name": "weeds/i1804.jpg",
+  "raw": "Chenopodium album",
+  "nps": [
+   "chenopodium album"
+  ]
+ },
+ "all|172": {
+  "file_name": "weeds/i1972.jpg",
+  "raw": "Sugarcane, Sorghum, Panicum, Panicum, Panicum, Panicum, Panicum, Panicum, Panicum, Panicum, Panicum, Panicum, Panic",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "panicum"
+  ]
+ },
+ "all|173": {
+  "file_name": "weeds/i2040.jpg",
+  "raw": "Bullhead, Bristly dogbane",
+  "nps": [
+   "bullhead",
+   "bristly dogbane"
+  ]
+ },
+ "all|174": {
+  "file_name": "SugarcaneWeedsMix/i2845.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|175": {
+  "file_name": "SugarcaneWeedsMix/i2849.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|176": {
+  "file_name": "SugarcaneWeedsMix/i2850.jpg",
+  "raw": "Rapeseed, Tomato",
+  "nps": [
+   "rapeseed",
+   "tomato"
+  ]
+ },
+ "all|177": {
+  "file_name": "SugarcaneWeedsMix/i2873.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|178": {
+  "file_name": "SugarcaneWeedsMix/i2908.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|179": {
+  "file_name": "SugarcaneWeedsMix/i2934.jpg",
+  "raw": "Rice grass, Sedge grass",
+  "nps": [
+   "rice grass",
+   "sedge grass"
+  ]
+ },
+ "all|180": {
+  "file_name": "SugarcaneWeedsMix/i2945.jpg",
+  "raw": "Chickweed, Dandelion",
+  "nps": [
+   "chickweed",
+   "dandelion"
+  ]
+ },
+ "all|181": {
+  "file_name": "SugarcaneWeedsMix/i2954.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|182": {
+  "file_name": "SugarcaneWeedsMix/i2969.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|183": {
+  "file_name": "SugarcaneWeedsMix/i2982.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "all|184": {
+  "file_name": "SugarcaneWeedsMix/i3015.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|185": {
+  "file_name": "SugarcaneWeedsMix/i3073.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|186": {
+  "file_name": "SugarcaneWeedsMix/i3077.jpg",
+  "raw": "Cocksfoot, Brome grass",
+  "nps": [
+   "cocksfoot",
+   "brome grass"
+  ]
+ },
+ "all|187": {
+  "file_name": "SugarcaneWeedsMix/i3078.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|188": {
+  "file_name": "SugarcaneWeedsMix/i3136.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "all|189": {
+  "file_name": "SugarcaneWeedsMix/i3144.jpg",
+  "raw": "Bermudagrass, Crabgrass",
+  "nps": [
+   "bermudagrass",
+   "crabgrass"
+  ]
+ },
+ "all|190": {
+  "file_name": "SugarcaneWeedsMix/i3148.jpg",
+  "raw": "Solanum nigrum, Solanum dulcamara",
+  "nps": [
+   "solanum nigrum",
+   "solanum dulcamara"
+  ]
+ },
+ "all|191": {
+  "file_name": "SugarcaneWeedsMix/i3151.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "all|192": {
+  "file_name": "SugarcaneWeedsMix/i3157.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|193": {
+  "file_name": "SugarcaneWeedsMix/i3158.jpg",
+  "raw": "Cleavers, Dandelion",
+  "nps": [
+   "cleavers",
+   "dandelion"
+  ]
+ },
+ "all|194": {
+  "file_name": "SugarcaneWeedsMix/i3182.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|195": {
+  "file_name": "SugarcaneWeedsMix/i3194.jpg",
+  "raw": "Narrow-leaf nightshade, wild potato, purslane",
+  "nps": [
+   "narrow-leaf nightshade",
+   "wild potato",
+   "purslane"
+  ]
+ },
+ "all|196": {
+  "file_name": "SugarcaneWeedsMix/i3217.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "all|197": {
+  "file_name": "SugarcaneWeedsMix/i3222.jpg",
+  "raw": "Sorghum, Panicum, Digitaria",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "digitaria"
+  ]
+ },
+ "all|198": {
+  "file_name": "SugarcaneWeedsMix/i3232.jpg",
+  "raw": "Bermudagrass, Crabgrass",
+  "nps": [
+   "bermudagrass",
+   "crabgrass"
+  ]
+ },
+ "all|199": {
+  "file_name": "SugarcaneWeedsMix/i2816.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|200": {
+  "file_name": "SugarcaneWeedsMix/i2821.jpg",
+  "raw": "Small white flowers, green leaves",
+  "nps": [
+   "small white flowers",
+   "green leaves"
+  ]
+ },
+ "all|201": {
+  "file_name": "SugarcaneWeedsMix/i2895.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "all|202": {
+  "file_name": "SugarcaneWeedsMix/i2925.jpg",
+  "raw": "Sedge, Rush",
+  "nps": [
+   "sedge",
+   "rush"
+  ]
+ },
+ "all|203": {
+  "file_name": "SugarcaneWeedsMix/i2955.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "all|204": {
+  "file_name": "SugarcaneWeedsMix/i2978.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|205": {
+  "file_name": "SugarcaneWeedsMix/i3022.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|206": {
+  "file_name": "SugarcaneWeedsMix/i3042.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|207": {
+  "file_name": "SugarcaneWeedsMix/i3054.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|208": {
+  "file_name": "SugarcaneWeedsMix/i3074.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "all|209": {
+  "file_name": "SugarcaneWeedsMix/i3082.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|210": {
+  "file_name": "SugarcaneWeedsMix/i3088.jpg",
+  "raw": "Bamboo grass, Sedge grass",
+  "nps": [
+   "bamboo grass",
+   "sedge grass"
+  ]
+ },
+ "all|211": {
+  "file_name": "SugarcaneWeedsMix/i3091.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "all|212": {
+  "file_name": "SugarcaneWeedsMix/i3108.jpg",
+  "raw": "Dandelion, Chickweed",
+  "nps": [
+   "dandelion",
+   "chickweed"
+  ]
+ },
+ "all|213": {
+  "file_name": "SugarcaneWeedsMix/i3118.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|214": {
+  "file_name": "SugarcaneWeedsMix/i3138.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "all|215": {
+  "file_name": "SugarcaneWeedsMix/i3160.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "all|216": {
+  "file_name": "SugarcaneWeedsMix/i3202.jpg",
+  "raw": "Sedge, Grass, Broadleaf Weed",
+  "nps": [
+   "sedge",
+   "grass",
+   "broadleaf weed"
+  ]
+ },
+ "all|217": {
+  "file_name": "weeds/i1634.jpg",
+  "raw": "Solanum nigrum, Solanum dulcamara",
+  "nps": [
+   "solanum nigrum",
+   "solanum dulcamara"
+  ]
+ },
+ "all|218": {
+  "file_name": "weeds/i1792.jpg",
+  "raw": "Sudangrass, Palmer amaranth",
+  "nps": [
+   "sudangrass",
+   "palmer amaranth"
+  ]
+ },
+ "all|219": {
+  "file_name": "weeds/i1957.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "all|220": {
+  "file_name": "weeds/i1959.jpg",
+  "raw": "Horned nettle, wild tobacco",
+  "nps": [
+   "horned nettle",
+   "wild tobacco"
+  ]
+ },
+ "all|221": {
+  "file_name": "weeds/i1992.jpg",
+  "raw": "Datura stramonium",
+  "nps": [
+   "datura stramonium"
+  ]
+ },
+ "panel|0": {
+  "file_name": "SugarcaneWeedsMix/i2815.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "panel|1": {
+  "file_name": "SugarcaneWeedsMix/i2822.jpg",
+  "raw": "Rhubarb, Garlic Mustard",
+  "nps": [
+   "rhubarb",
+   "garlic mustard"
+  ]
+ },
+ "panel|2": {
+  "file_name": "SugarcaneWeedsMix/i2841.jpg",
+  "raw": "Solanum nigrum, Capsella bursa-pastoris",
+  "nps": [
+   "solanum nigrum",
+   "capsella bursa-pastoris"
+  ]
+ },
+ "panel|3": {
+  "file_name": "SugarcaneWeedsMix/i2853.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|4": {
+  "file_name": "SugarcaneWeedsMix/i2863.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "panel|5": {
+  "file_name": "SugarcaneWeedsMix/i2871.jpg",
+  "raw": "Cyperus rotundus, Cyperus papyrus",
+  "nps": [
+   "cyperus rotundus",
+   "cyperus papyrus"
+  ]
+ },
+ "panel|6": {
+  "file_name": "SugarcaneWeedsMix/i2875.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|7": {
+  "file_name": "SugarcaneWeedsMix/i2887.jpg",
+  "raw": "Bermudagrass, Crabgrass",
+  "nps": [
+   "bermudagrass",
+   "crabgrass"
+  ]
+ },
+ "panel|8": {
+  "file_name": "SugarcaneWeedsMix/i2890.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|9": {
+  "file_name": "SugarcaneWeedsMix/i2897.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "panel|10": {
+  "file_name": "SugarcaneWeedsMix/i2899.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|11": {
+  "file_name": "SugarcaneWeedsMix/i2904.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|12": {
+  "file_name": "SugarcaneWeedsMix/i2909.jpg",
+  "raw": "Cocklebur, Sicklepod, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "sicklepod",
+   "crabgrass"
+  ]
+ },
+ "panel|13": {
+  "file_name": "SugarcaneWeedsMix/i2943.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "panel|14": {
+  "file_name": "SugarcaneWeedsMix/i2951.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "panel|15": {
+  "file_name": "SugarcaneWeedsMix/i2983.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "panel|16": {
+  "file_name": "SugarcaneWeedsMix/i3009.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|17": {
+  "file_name": "SugarcaneWeedsMix/i3013.jpg",
+  "raw": "Cocklebur, Crabgrass",
+  "nps": [
+   "cocklebur",
+   "crabgrass"
+  ]
+ },
+ "panel|18": {
+  "file_name": "SugarcaneWeedsMix/i3020.jpg",
+  "raw": "Cleavers, Dandelion",
+  "nps": [
+   "cleavers",
+   "dandelion"
+  ]
+ },
+ "panel|19": {
+  "file_name": "SugarcaneWeedsMix/i3023.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|20": {
+  "file_name": "SugarcaneWeedsMix/i3037.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|21": {
+  "file_name": "SugarcaneWeedsMix/i3040.jpg",
+  "raw": "Sorrel, Crabgrass",
+  "nps": [
+   "sorrel",
+   "crabgrass"
+  ]
+ },
+ "panel|22": {
+  "file_name": "SugarcaneWeedsMix/i3052.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|23": {
+  "file_name": "SugarcaneWeedsMix/i3055.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|24": {
+  "file_name": "SugarcaneWeedsMix/i3057.jpg",
+  "raw": "Sorghum, Panicum, Eleusine, Digitaria",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine"
+  ]
+ },
+ "panel|25": {
+  "file_name": "SugarcaneWeedsMix/i3070.jpg",
+  "raw": "Potato, Nightshade",
+  "nps": [
+   "potato",
+   "nightshade"
+  ]
+ },
+ "panel|26": {
+  "file_name": "SugarcaneWeedsMix/i3093.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "panel|27": {
+  "file_name": "SugarcaneWeedsMix/i3103.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|28": {
+  "file_name": "SugarcaneWeedsMix/i3116.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|29": {
+  "file_name": "SugarcaneWeedsMix/i3129.jpg",
+  "raw": "Cocksfoot, Sedges",
+  "nps": [
+   "cocksfoot",
+   "sedges"
+  ]
+ },
+ "panel|30": {
+  "file_name": "SugarcaneWeedsMix/i3133.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "panel|31": {
+  "file_name": "SugarcaneWeedsMix/i3155.jpg",
+  "raw": "Sesbania, Heliopsis, Lantana",
+  "nps": [
+   "sesbania",
+   "heliopsis",
+   "lantana"
+  ]
+ },
+ "panel|32": {
+  "file_name": "SugarcaneWeedsMix/i3171.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|33": {
+  "file_name": "SugarcaneWeedsMix/i3174.jpg",
+  "raw": "Sorghum, Amaranth",
+  "nps": [
+   "sorghum",
+   "amaranth"
+  ]
+ },
+ "panel|34": {
+  "file_name": "SugarcaneWeedsMix/i3179.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|35": {
+  "file_name": "SugarcaneWeedsMix/i3208.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "panel|36": {
+  "file_name": "SugarcaneWeedsMix/i3209.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "panel|37": {
+  "file_name": "SugarcaneWeedsMix/i3225.jpg",
+  "raw": "Bullhead grass, Crabgrass",
+  "nps": [
+   "bullhead grass",
+   "crabgrass"
+  ]
+ },
+ "panel|38": {
+  "file_name": "SugarcaneWeedsMix/i3226.jpg",
+  "raw": "Cocksfoot, Sickle Bristlegrass",
+  "nps": [
+   "cocksfoot",
+   "sickle bristlegrass"
+  ]
+ },
+ "panel|39": {
+  "file_name": "SugarcaneWeedsMix/i3228.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|40": {
+  "file_name": "sugarcane/i2241.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|41": {
+  "file_name": "sugarcane/i2275.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|42": {
+  "file_name": "sugarcane/i2361.jpg",
+  "raw": "Sugarcane, Grass",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|43": {
+  "file_name": "sugarcane/i2412.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|44": {
+  "file_name": "sugarcane/i2697.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|45": {
+  "file_name": "sugarcane/i2713.jpg",
+  "raw": "Sugarcane, Grass, Weeds",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|46": {
+  "file_name": "sugarcane/i2720.jpg",
+  "raw": "Sorrel, Crabgrass",
+  "nps": [
+   "sorrel",
+   "crabgrass"
+  ]
+ },
+ "panel|47": {
+  "file_name": "sugarcane/i2789.jpg",
+  "raw": "Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "panel|48": {
+  "file_name": "sugarcane/i3292.jpg",
+  "raw": "Sugarcane, Grass, Weed",
+  "nps": [
+   "grass"
+  ]
+ },
+ "panel|49": {
+  "file_name": "sugarcane/i3386.jpg",
+  "raw": "Rice grass, barnyardgrass",
+  "nps": [
+   "rice grass",
+   "barnyardgrass"
+  ]
+ },
+ "panel|50": {
+  "file_name": "weeds/i1272.jpg",
+  "raw": "Bullhead grass, Bristly dogstail grass",
+  "nps": [
+   "bullhead grass",
+   "bristly dogstail grass"
+  ]
+ },
+ "panel|51": {
+  "file_name": "weeds/i1320.jpg",
+  "raw": "Sorrel, Dandelion",
+  "nps": [
+   "sorrel",
+   "dandelion"
+  ]
+ },
+ "panel|52": {
+  "file_name": "weeds/i1373.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|53": {
+  "file_name": "weeds/i1416.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "panel|54": {
+  "file_name": "weeds/i1433.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "panel|55": {
+  "file_name": "weeds/i1537.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|56": {
+  "file_name": "weeds/i1559.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|57": {
+  "file_name": "weeds/i1651.jpg",
+  "raw": "Nightshade, Wild potato, Groundcherry",
+  "nps": [
+   "nightshade",
+   "wild potato",
+   "groundcherry"
+  ]
+ },
+ "panel|58": {
+  "file_name": "weeds/i1736.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|59": {
+  "file_name": "weeds/i1752.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "panel|60": {
+  "file_name": "weeds/i1795.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|61": {
+  "file_name": "weeds/i1796.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "panel|62": {
+  "file_name": "weeds/i1805.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "panel|63": {
+  "file_name": "weeds/i1808.jpg",
+  "raw": "Solanum nigrum, Solanum americanum",
+  "nps": [
+   "solanum nigrum",
+   "solanum americanum"
+  ]
+ },
+ "panel|64": {
+  "file_name": "weeds/i1844.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "panel|65": {
+  "file_name": "weeds/i1848.jpg",
+  "raw": "Solanum nigrum, Solanum dulcamara",
+  "nps": [
+   "solanum nigrum",
+   "solanum dulcamara"
+  ]
+ },
+ "panel|66": {
+  "file_name": "weeds/i1854.jpg",
+  "raw": "Nightshade, Hairy Nightshade",
+  "nps": [
+   "nightshade",
+   "hairy nightshade"
+  ]
+ },
+ "panel|67": {
+  "file_name": "weeds/i1864.jpg",
+  "raw": "Nightshade, Solanum dulcamara",
+  "nps": [
+   "nightshade",
+   "solanum dulcamara"
+  ]
+ },
+ "panel|68": {
+  "file_name": "weeds/i1865.jpg",
+  "raw": "Nightshade, Solanum dulcamara",
+  "nps": [
+   "nightshade",
+   "solanum dulcamara"
+  ]
+ },
+ "panel|69": {
+  "file_name": "weeds/i1892.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "panel|70": {
+  "file_name": "weeds/i1905.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|71": {
+  "file_name": "weeds/i1939.jpg",
+  "raw": "Bullgrass, Crabgrass",
+  "nps": [
+   "bullgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|72": {
+  "file_name": "weeds/i1942.jpg",
+  "raw": "Cyperus rotundus",
+  "nps": [
+   "cyperus rotundus"
+  ]
+ },
+ "panel|73": {
+  "file_name": "weeds/i1963.jpg",
+  "raw": "Sorrel, Amaranth",
+  "nps": [
+   "sorrel",
+   "amaranth"
+  ]
+ },
+ "panel|74": {
+  "file_name": "weeds/i1981.jpg",
+  "raw": "Solanum nigrum",
+  "nps": [
+   "solanum nigrum"
+  ]
+ },
+ "panel|75": {
+  "file_name": "weeds/i1991.jpg",
+  "raw": "Barnyardgrass, Crabgrass",
+  "nps": [
+   "barnyardgrass",
+   "crabgrass"
+  ]
+ },
+ "panel|76": {
+  "file_name": "weeds/i1997.jpg",
+  "raw": "Nightshade, Solanum dulcamara",
+  "nps": [
+   "nightshade",
+   "solanum dulcamara"
+  ]
+ },
+ "panel|77": {
+  "file_name": "weeds/i2041.jpg",
+  "raw": "Cyperus esculentus",
+  "nps": [
+   "cyperus esculentus"
+  ]
+ },
+ "panel|78": {
+  "file_name": "weeds/i2077.jpg",
+  "raw": "Nightshade, Solanum dulcamara",
+  "nps": [
+   "nightshade",
+   "solanum dulcamara"
+  ]
+ },
+ "panel|79": {
+  "file_name": "weeds/i2104.jpg",
+  "raw": "Sugarcane, Sorghum, Panicum, Eleusine indica",
+  "nps": [
+   "sorghum",
+   "panicum",
+   "eleusine indica"
+  ]
+ },
+ "_diagnostics": {
+  "n_distinct_sets": 75,
+  "top_set_share": 0.1291390728476821,
+  "top_set": [
+   "grass"
+  ]
+ }
+}
