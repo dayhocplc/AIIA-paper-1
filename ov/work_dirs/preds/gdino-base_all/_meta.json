@@ -1,0 +1,56 @@
+{
+  "model": "gdino-base",
+  "hf_id": "IDEA-Research/grounding-dino-base",
+  "set": "all",
+  "n_images": 222,
+  "score_floor": 0.02,
+  "topk": 100,
+  "prompts": {
+    "A": [
+      0,
+      [
+        "weed",
+        "weeds"
+      ]
+    ],
+    "B": [
+      0,
+      [
+        "grass",
+        "broadleaf plant",
+        "green plant",
+        "vine"
+      ]
+    ],
+    "C1": [
+      0,
+      [
+        "plant that is not sugarcane",
+        "vegetation other than the crop"
+      ]
+    ],
+    "C2": [
+      0,
+      [
+        "unwanted plant among sugarcane",
+        "volunteer plant in a cane field",
+        "plant growing between cane rows"
+      ]
+    ],
+    "D": [
+      1,
+      [
+        "sugarcane",
+        "sugarcane leaf"
+      ]
+    ],
+    "E": [
+      0,
+      [
+        "tall green leafy plant in a field",
+        "broad flat green foliage on soil"
+      ]
+    ]
+  },
+  "seconds": 682.9
+}
