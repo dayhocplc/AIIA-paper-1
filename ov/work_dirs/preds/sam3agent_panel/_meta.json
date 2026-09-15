@@ -1,0 +1,11 @@
+{
+  "model": "sam3agent",
+  "set": "panel",
+  "n_images": 80,
+  "score_floor": 0.02,
+  "topk": 100,
+  "fallback_images": 0,
+  "fallback_prompt": "weed",
+  "stage1_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "seconds": 83.4
+}

@@ -1,0 +1,27 @@
+{
+  "model": "yoloworld-s",
+  "ckpt": "yolov8s-worldv2.pt",
+  "set": "all",
+  "n_images": 222,
+  "score_floor": 1e-05,
+  "topk": 100,
+  "max_confidence_per_prompt": {
+    "A|weed": 0.015281012281775475,
+    "A|weeds": 0.03341769799590111,
+    "B|grass": 0.11185237765312195,
+    "B|broadleaf plant": 0.12432931363582611,
+    "B|green plant": 0.5799469351768494,
+    "B|vine": 0.01121874526143074,
+    "C1|plant that is not sugarcane": 0.3477693796157837,
+    "C1|vegetation other than the crop": 0.41512250900268555,
+    "C2|unwanted plant among sugarcane": 0.6463450789451599,
+    "C2|volunteer plant in a cane field": 0.16145797073841095,
+    "C2|plant growing between cane rows": 0.5175315737724304,
+    "D|sugarcane": 0.06612099707126617,
+    "D|sugarcane leaf": 0.027390610426664352,
+    "E|tall green leafy plant in a field": 0.7137171626091003,
+    "E|broad flat green foliage on soil": 0.6768441796302795
+  },
+  "protocol_deviation": "score floor 1e-5 instead of 0.02; model re-instantiated per prompt (device bug)",
+  "seconds": 271.1
+}
