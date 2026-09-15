@@ -1,0 +1,22 @@
+VÒNG 1 — HƯỚNG DẪN TỐI THIỂU
+
+Khoanh hộp quanh cỏ dại trong ảnh ruộng mía. Không khoanh cây mía.
+
+────────────────────────────────────────────────────────────
+Cố ý chỉ có một câu.
+
+Vòng này mô phỏng cách gán nhãn phổ biến hiện nay: người gán nhãn nhận một
+yêu cầu ngắn rồi tự quyết định phần còn lại. Mức đồng thuận đo được ở đây
+chính là mức mà phần lớn bộ dữ liệu đang có.
+
+Vòng 2 sẽ dùng đúng 80 ảnh này nhưng kèm quy tắc chi tiết. So sánh hai vòng
+cho biết nhiễu nhãn là bản chất bài toán hay chỉ do thiếu quy tắc.
+
+Vì vậy: ĐỪNG hỏi thêm cho rõ, và đừng cố đoán ý người điều phối.
+Cứ làm theo phán đoán tự nhiên của bạn.
+
+Có ảnh không có cỏ nào. Không vẽ gì cũng là một câu trả lời hợp lệ —
+bấm "Lưu và sang ảnh sau" để ghi nhận.
+
+Gặp ảnh mà bạn thấy không phân định được cỏ với mía thì bấm phím M.
+Tự bạn quyết thế nào là "không phân định được"; vòng này không có định nghĩa.

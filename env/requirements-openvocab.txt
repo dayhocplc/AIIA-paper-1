@@ -1,0 +1,1 @@
+# could not be captured: CalledProcessError: Command '['<GIAMIA_ROOT>/ov/envs/ov/bin/python', '-m', 'pip', 'freeze']' returned non-zero exit status 1.

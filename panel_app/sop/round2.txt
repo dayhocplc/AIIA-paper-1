@@ -1,0 +1,91 @@
+VÒNG 2 — QUY TẮC CHI TIẾT
+SOP vòng 2 — bản 1.0 — soạn ngày 2026-08-31 — CHỜ NGƯỜI ĐIỀU PHỐI DUYỆT
+
+Vẫn 80 ảnh của vòng 1. Đừng mở lại kết quả vòng 1 của bạn: phép đo cần bạn
+quyết định lại một cách độc lập.
+
+1. ĐƠN VỊ GÁN NHÃN — vẽ cái gì thành một hộp
+   1.1 Một hộp = MỘT BỤI cỏ, tức một gốc và các lá mọc ra từ gốc đó.
+   1.2 Một chiếc lá rời, không thấy gốc, không nối được với bụi nào: KHÔNG vẽ.
+   1.3 Hai bụi mọc sát nhau nhưng phân biệt được hai gốc: vẽ HAI hộp.
+   1.4 Thảm cỏ dày KHÔNG LẪN MÍA, không tách được từng gốc:
+       vẽ MỘT hộp cho cả mảng.
+       Nếu trong mảng có mía thì KHÔNG áp quy tắc này — xem mục 1B.4.
+
+1B. KHI CỎ VÀ MÍA MỌC XEN NHAU  (ca thường gặp nhất)
+   Hộp chữ nhật KHÔNG THỂ ôm một bụi cỏ mà loại được lá mía cắt ngang. Đừng cố.
+   Trong bộ dữ liệu này, một hộp cỏ trung bình chỉ có 44% diện tích thực sự là cỏ,
+   phần còn lại là đất và mía lọt vào. Đó là chuyện bình thường, không phải lỗi.
+
+   1B.1 Lá mía vắt ngang qua bụi cỏ:
+        vẽ hộp ôm bụi cỏ NHƯ THỂ lá mía không có ở đó.
+        KHÔNG thu nhỏ hộp, KHÔNG tách thành nhiều hộp để né lá mía.
+
+   1B.2 Cỏ mọc chen lên từ giữa một gốc mía:
+        nếu nhìn ra được gốc cỏ riêng thì vẽ hộp cho bụi cỏ đó.
+        Hộp sẽ chứa nhiều lá mía — chấp nhận.
+
+   1B.3 Bụi cỏ bị lá mía che đứt làm hai mảng, nhưng bạn tin chắc là CÙNG một bụi:
+        vẽ MỘT hộp ôm cả hai mảng.
+        Không chắc là cùng một bụi thì vẽ HAI hộp.
+
+   1B.4 Mảng dày đặc mà cỏ và mía đan vào nhau, không tách nổi từng gốc:
+        - vẽ những phần cỏ bạn CÓ nhận ra được, dù ít;
+        - KHÔNG khoanh cả mảng thành một hộp cỏ, vì phần lớn trong đó là mía;
+        - và bấm phím M để đánh dấu ảnh này là KHÔNG PHÂN ĐỊNH ĐƯỢC.
+
+        Nếu cả ảnh không nhận ra được phần cỏ nào: không vẽ gì, chỉ bấm M rồi lưu.
+
+        Bấm M KHÔNG phải là bỏ cuộc. Nó là một câu trả lời có giá trị: chúng tôi
+        cần biết ảnh nào khiến người có kinh nghiệm cũng không phân định được, và
+        ba người có cùng thấy như vậy hay không. Đừng ngại dùng nó, cũng đừng dùng
+        nó để đi nhanh cho xong.
+
+   1B.5 Nguyên tắc chung: hộp bám theo BỤI CỎ, không bám theo vùng trống giữa mía.
+
+2. RANH GIỚI HỘP
+   2.1 Hộp ôm sát phần lá nhìn thấy được của bụi đó.
+   2.2 Lá bị lá khác che ở giữa nhưng thấy rõ hai đầu: tính là một lá, ôm cả.
+   2.3 Không nới hộp ra để lấy phần đất trống ở giữa các lá.
+   2.4 Bụi bị cắt ở mép ảnh: vẫn vẽ, ôm phần nhìn thấy.
+
+3. VẼ CÁI GÌ, KHÔNG VẼ CÁI GÌ
+   3.1 CÓ vẽ: mọi cây không phải mía.
+   3.2 KHÔNG vẽ: cây mía. Mía chỉ cần nhận ra để TRÁNH, không phải để khoanh.
+   3.3 KHÔNG vẽ: lá mía khô, rơm rạ, thân cây mục — không phải cây đang sống.
+   3.4 Phân biệt mía với cỏ, so sánh NGAY TRONG ẢNH ĐANG XEM:
+       - lá mía bản rộng hơn hẳn, dày, thẳng, có gân giữa nhạt màu chạy dọc lá,
+         và mọc toả đều từ một gốc;
+       - lá cỏ mảnh hơn nhiều, mềm, mọc lộn xộn hoặc thành bụi dày đặc.
+       Dùng cây to nhất trong ảnh làm mốc so sánh, ĐỪNG dùng một con số cố định:
+       ảnh chụp ở nhiều khoảng cách khác nhau nên cùng một loài cho ra bề ngang
+       rất khác nhau giữa các ảnh.
+
+4. KÍCH THƯỚC
+   4.1 KHÔNG có ngưỡng nhỏ nhất. Bụi nhỏ tới đâu mà bạn thấy đáng kể thì cứ vẽ.
+   4.2 Đây là chỗ cố ý để bạn tự quyết. Vòng 2 siết chặt quy tắc về ĐƠN VỊ
+       (cái gì thành một hộp) và RANH GIỚI, nhưng không siết chuyện cây nhỏ có
+       đáng kể hay không — vì đó là phán đoán nông học, không phải quy ước vẽ.
+
+5. CA KHÔNG CHẮC CHẮN
+   5.1 Không chắc mía hay cỏ: KHÔNG vẽ. Thà bỏ sót còn hơn thêm nhãn sai.
+   5.2 Không chắc một bụi hay hai: vẽ theo số gốc bạn đếm được.
+   5.3 Ảnh mờ, thiếu sáng, không quyết được: không vẽ, vẫn bấm lưu để ghi nhận.
+
+────────────────────────────────────────────────────────────
+Có chỗ chưa rõ thì hỏi NGƯỜI ĐIỀU PHỐI, không hỏi người gán nhãn khác.
+Mọi giải đáp sẽ được gửi đồng thời cho cả ba người và ghi vào nhật ký dưới đây.
+
+────────────────────────────────────────────────────────────
+NHẬT KÝ SỬA ĐỔI  (người điều phối ghi, không xoá dòng cũ)
+
+  bản 1.0  —  2026-08-31  —  soạn xong, CHƯA có dữ liệu vòng 1, chờ duyệt
+             · 1.4 chỉ áp cho mảng thuần cỏ; mảng lẫn mía theo 1B.4
+             · thêm cờ "không phân định được" (phím M) ở mục 1B.4
+             · 3.4 bỏ ngưỡng pixel cố định, chuyển sang so sánh trong cùng ảnh
+             · 4.1 không đặt ngưỡng kích thước nhỏ nhất
+
+  bản ….  —  ……/……/……  —  ………………………………………………
+
+SOP phải ĐÓNG BĂNG trước khi phát cho người gán nhãn. Sửa giữa vòng thì cả ba
+người không còn dùng chung một bản, và phép đo đồng thuận mất giá trị.

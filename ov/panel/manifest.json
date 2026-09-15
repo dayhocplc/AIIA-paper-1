@@ -1,0 +1,60 @@
+{
+ "source_panel": "repro/mmdet_mit/data/COCO_Panel/panel_coco.json",
+ "n_images": 80,
+ "annotators": {
+  "ann1": {
+   "source_folder": "ann1",
+   "sha256_of_source": "3be0c637554f1fa49b89320ef5474241fd18783e89167c56b184f0305d0db70a",
+   "n_images": 80,
+   "n_boxes": 421,
+   "n_undecidable": 5,
+   "undecidable_files": [
+    "i1808.jpg",
+    "i2943.jpg",
+    "i3103.jpg",
+    "i3171.jpg",
+    "i3386.jpg"
+   ],
+   "coco_out": "ov/panel/panel_ann1_coco.json"
+  },
+  "ann2": {
+   "source_folder": "ann2",
+   "sha256_of_source": "a358af3a64d9d310dd965733c7cb21804b1d90b71c191e30d2aedc6222f8703f",
+   "n_images": 80,
+   "n_boxes": 474,
+   "n_undecidable": 4,
+   "undecidable_files": [
+    "i1991.jpg",
+    "i2104.jpg",
+    "i2943.jpg",
+    "i3386.jpg"
+   ],
+   "coco_out": "ov/panel/panel_ann2_coco.json"
+  },
+  "ann3": {
+   "source_folder": "ann3",
+   "sha256_of_source": "83bf33a015989d40649ccccf14f6769c630b12949fc42bac0071db82602b3285",
+   "n_images": 80,
+   "n_boxes": 249,
+   "n_undecidable": 3,
+   "undecidable_files": [
+    "i2713.jpg",
+    "i2909.jpg",
+    "i3055.jpg"
+   ],
+   "coco_out": "ov/panel/panel_ann3_coco.json"
+  },
+  "ann4": {
+   "source_folder": "ann4",
+   "sha256_of_source": "48084cc0f7d366d4f822f1fc385c79807b5ae0001d7269fe0b8fcd85195bb813",
+   "n_images": 80,
+   "n_boxes": 471,
+   "n_undecidable": 1,
+   "undecidable_files": [
+    "i2943.jpg"
+   ],
+   "coco_out": "ov/panel/panel_ann4_coco.json"
+  }
+ },
+ "note": "Four round-2 submissions were collected. Two carried the same VIA project template name, which is a template artefact and not a duplicate: their mutual F1 is 0.232, the same level as any other pair. Annotator identities are not published; see Section 2.7 for how the manuscript refers to them."
+}

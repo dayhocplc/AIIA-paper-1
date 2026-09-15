@@ -1,0 +1,215 @@
+{
+ "device": "cuda",
+ "input_size": [
+  640,
+  640
+ ],
+ "iters": 30,
+ "batch_size": 1,
+ "prompt": "weed",
+ "models": {
+  "qwen2.5-vl-3b": {
+   "params_M": 3754.6,
+   "latency_ms_median": 366.7,
+   "latency_ms_p5_p95": [
+    362.6,
+    371.5
+   ],
+   "peak_vram_GB": 7.1,
+   "peak_vram_reserved_GB": 7.32
+  },
+  "owlv2-base": {
+   "params_M": 155.0,
+   "latency_ms_median": 122.5,
+   "latency_ms_p5_p95": [
+    121.4,
+    123.5
+   ],
+   "peak_vram_GB": 0.76,
+   "peak_vram_reserved_GB": 0.85
+  },
+  "owlv2-large": {
+   "params_M": 437.6,
+   "latency_ms_median": 586.4,
+   "latency_ms_p5_p95": [
+    581.2,
+    592.8
+   ],
+   "peak_vram_GB": 1.96,
+   "peak_vram_reserved_GB": 2.09
+  },
+  "gdino-tiny": {
+   "params_M": 172.3,
+   "latency_ms_median": 100.4,
+   "latency_ms_p5_p95": [
+    99.2,
+    102.4
+   ],
+   "peak_vram_GB": 1.43,
+   "peak_vram_reserved_GB": 1.72
+  },
+  "gdino-base": {
+   "params_M": 232.3,
+   "latency_ms_median": 139.5,
+   "latency_ms_p5_p95": [
+    138.4,
+    142.9
+   ],
+   "peak_vram_GB": 1.67,
+   "peak_vram_reserved_GB": 1.88
+  },
+  "yoloworld-s": {
+   "params_M": 164.0,
+   "latency_ms_median": 5.4,
+   "latency_ms_p5_p95": [
+    4.8,
+    6.2
+   ],
+   "peak_vram_GB": 0.66,
+   "peak_vram_reserved_GB": 0.73
+  },
+  "sam3": {
+   "params_M": 840.4,
+   "latency_ms_median": 533.8,
+   "latency_ms_p5_p95": [
+    529.6,
+    540.7
+   ],
+   "peak_vram_GB": 3.71,
+   "peak_vram_reserved_GB": 4.21
+  },
+  "rtmdet": {
+   "params_M": 113.7,
+   "latency_ms_median": 38.1,
+   "latency_ms_p5_p95": [
+    37.1,
+    40.2
+   ],
+   "peak_vram_GB": 0.57,
+   "peak_vram_reserved_GB": 0.72
+  }
+ },
+ "gpu": "NVIDIA GeForce RTX 3080 Ti",
+ "observed_study_protocol": {
+  "gdino-base_all": {
+   "n_images": 222,
+   "n_prompts": 15,
+   "seconds": 682.9,
+   "s_per_image_per_prompt": 0.205
+  },
+  "gdino-base_neg": {
+   "n_images": 869,
+   "n_prompts": 7,
+   "seconds": 1260.7,
+   "s_per_image_per_prompt": 0.207
+  },
+  "gdino-base_panel": {
+   "n_images": 80,
+   "n_prompts": 15,
+   "seconds": 249.7,
+   "s_per_image_per_prompt": 0.208
+  },
+  "gdino-tiny_all": {
+   "n_images": 222,
+   "n_prompts": 15,
+   "seconds": 505.6,
+   "s_per_image_per_prompt": 0.152
+  },
+  "gdino-tiny_neg": {
+   "n_images": 869,
+   "n_prompts": 7,
+   "seconds": 956.8,
+   "s_per_image_per_prompt": 0.157
+  },
+  "gdino-tiny_panel": {
+   "n_images": 80,
+   "n_prompts": 15,
+   "seconds": 182.0,
+   "s_per_image_per_prompt": 0.152
+  },
+  "owlv2-base_all": {
+   "n_images": 222,
+   "n_prompts": 15,
+   "seconds": 730.8,
+   "s_per_image_per_prompt": 0.219
+  },
+  "owlv2-base_neg": {
+   "n_images": 869,
+   "n_prompts": 7,
+   "seconds": 1352.1,
+   "s_per_image_per_prompt": 0.222
+  },
+  "owlv2-base_panel": {
+   "n_images": 80,
+   "n_prompts": 15,
+   "seconds": 262.5,
+   "s_per_image_per_prompt": 0.219
+  },
+  "owlv2-large_all": {
+   "n_images": 222,
+   "n_prompts": 15,
+   "seconds": 2286.4,
+   "s_per_image_per_prompt": 0.687
+  },
+  "owlv2-large_neg": {
+   "n_images": 869,
+   "n_prompts": 7,
+   "seconds": 4305.3,
+   "s_per_image_per_prompt": 0.708
+  },
+  "owlv2-large_panel": {
+   "n_images": 80,
+   "n_prompts": 15,
+   "seconds": 825.7,
+   "s_per_image_per_prompt": 0.688
+  },
+  "sam3_all": {
+   "n_images": 222,
+   "n_prompts": 15,
+   "seconds": 1871.0,
+   "s_per_image_per_prompt": 0.562
+  },
+  "sam3_neg": {
+   "n_images": 869,
+   "n_prompts": 7,
+   "seconds": 3350.5,
+   "s_per_image_per_prompt": 0.551
+  },
+  "sam3_panel": {
+   "n_images": 80,
+   "n_prompts": 15,
+   "seconds": 674.6,
+   "s_per_image_per_prompt": 0.562
+  },
+  "sam3agent_all": {
+   "n_images": 222,
+   "n_prompts": 1,
+   "seconds": 239.9,
+   "s_per_image_per_prompt": 1.081
+  },
+  "sam3agent_panel": {
+   "n_images": 80,
+   "n_prompts": 1,
+   "seconds": 83.4,
+   "s_per_image_per_prompt": 1.042
+  },
+  "yoloworld-s_all": {
+   "n_images": 222,
+   "n_prompts": 1,
+   "seconds": 271.1,
+   "s_per_image_per_prompt": 1.221
+  },
+  "yoloworld-s_neg": {
+   "n_images": 869,
+   "n_prompts": 1,
+   "seconds": 478.1,
+   "s_per_image_per_prompt": 0.55
+  },
+  "yoloworld-s_panel": {
+   "n_images": 80,
+   "n_prompts": 1,
+   "seconds": 115.5,
+   "s_per_image_per_prompt": 1.444
+  }
+ }
+}

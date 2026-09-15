@@ -1,0 +1,31 @@
+{
+ "per_class": {
+  "weed": {
+   "n_boxes": 998,
+   "n_images": 222,
+   "boxes_per_image_median": 4.0,
+   "boxes_per_image_max": 17,
+   "box_area_pct_median": 3.962647473370587,
+   "box_area_pct_p10": 1.0856557775426794,
+   "box_area_pct_p90": 21.68208652072484,
+   "frame_coverage_pct_median": 33.60891342163086,
+   "frame_coverage_pct_max": 132.31981065538193
+  },
+  "sugarcane": {
+   "n_boxes": 384,
+   "n_images": 180,
+   "boxes_per_image_median": 2.0,
+   "boxes_per_image_max": 6,
+   "box_area_pct_median": 30.71467081705729,
+   "box_area_pct_p10": 6.4151721530490455,
+   "box_area_pct_p90": 94.26818423800998,
+   "frame_coverage_pct_median": 80.27946330882885,
+   "frame_coverage_pct_max": 182.2052001953125
+  }
+ },
+ "n_images_total": 222,
+ "n_images_with_weed": 222,
+ "n_images_with_sugarcane": 180,
+ "n_images_with_both": 180,
+ "granularity_ratio_area": 7.751048011074199
+}

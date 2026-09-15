@@ -1,0 +1,530 @@
+{
+ "checkpoints": [
+  {
+   "key": "owlv2-base",
+   "repo": "google/owlv2-base-patch16-ensemble",
+   "revision": "cfd3195ba4ea9592eec887ded089f4c08eff231d",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "owlv2-large",
+   "repo": "google/owlv2-large-patch14-ensemble",
+   "revision": "95e26936e865f87db1742128404b3c035d47d89d",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "gdino-tiny",
+   "repo": "IDEA-Research/grounding-dino-tiny",
+   "revision": "a2bb814dd30d776dcf7e30523b00659f4f141c71",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "gdino-base",
+   "repo": "IDEA-Research/grounding-dino-base",
+   "revision": "12bdfa3120f3e7ec7b434d90674b3396eccf88eb",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "yoloworld-s",
+   "repo": null,
+   "revision": null,
+   "weight_file": "yolov8s-worldv2.pt",
+   "weight_sha256": "9b2c17ab6124a913e9b3a5c170617920d91b0f01111a8479da69f00e2cf27792"
+  },
+  {
+   "key": "sam3",
+   "repo": "facebook/sam3",
+   "revision": "3c879f39826c281e95690f02c7821c4de09afae7",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "sam3agent (stage 1)",
+   "repo": "Qwen/Qwen2.5-VL-3B-Instruct",
+   "revision": "66285546d2b821cf421d4f5eb2576359d3770cd3",
+   "weight_file": null,
+   "weight_sha256": null
+  },
+  {
+   "key": "RTMDet (supervised reference)",
+   "repo": null,
+   "revision": null,
+   "weight_file": "best_coco_bbox_mAP_50_epoch_113.pth",
+   "weight_sha256": "c58514d2821c64ee5ae9e600a9f118c1e16e728c38a1c4d5cc7d6114ef84854a"
+  }
+ ],
+ "env_openvocab": {
+  "python": "3.12.3",
+  "torch": "2.13.0+cu130",
+  "cuda": "13.0",
+  "cudnn": "92000",
+  "transformers": "5.16.1",
+  "ultralytics": "8.4.137",
+  "pycocotools": "2.0.11",
+  "numpy": "2.5.2",
+  "pillow": "12.3.0",
+  "accelerate": "1.14.0",
+  "tokenizers": "0.23.1",
+  "safetensors": "0.8.0",
+  "scipy": "1.18.1",
+  "_sam3_note": "transformers.models.sam3"
+ },
+ "env_supervised": {
+  "python": "3.10.20",
+  "torch": "2.1.2+cu118",
+  "mmdet": "3.3.0",
+  "mmcv": "2.1.0",
+  "mmengine": "0.10.7",
+  "mmpretrain": "1.2.0",
+  "numpy": "1.26.4",
+  "pycocotools": "2.0.11"
+ },
+ "gpu": "NVIDIA GeForce RTX 3080 Ti",
+ "model_costs": {
+  "device": "cuda",
+  "input_size": [
+   640,
+   640
+  ],
+  "iters": 30,
+  "batch_size": 1,
+  "prompt": "weed",
+  "models": {
+   "qwen2.5-vl-3b": {
+    "params_M": 3754.6,
+    "latency_ms_median": 366.7,
+    "latency_ms_p5_p95": [
+     362.6,
+     371.5
+    ],
+    "peak_vram_GB": 7.1,
+    "peak_vram_reserved_GB": 7.32
+   },
+   "owlv2-base": {
+    "params_M": 155.0,
+    "latency_ms_median": 122.5,
+    "latency_ms_p5_p95": [
+     121.4,
+     123.5
+    ],
+    "peak_vram_GB": 0.76,
+    "peak_vram_reserved_GB": 0.85
+   },
+   "owlv2-large": {
+    "params_M": 437.6,
+    "latency_ms_median": 586.4,
+    "latency_ms_p5_p95": [
+     581.2,
+     592.8
+    ],
+    "peak_vram_GB": 1.96,
+    "peak_vram_reserved_GB": 2.09
+   },
+   "gdino-tiny": {
+    "params_M": 172.3,
+    "latency_ms_median": 100.4,
+    "latency_ms_p5_p95": [
+     99.2,
+     102.4
+    ],
+    "peak_vram_GB": 1.43,
+    "peak_vram_reserved_GB": 1.72
+   },
+   "gdino-base": {
+    "params_M": 232.3,
+    "latency_ms_median": 139.5,
+    "latency_ms_p5_p95": [
+     138.4,
+     142.9
+    ],
+    "peak_vram_GB": 1.67,
+    "peak_vram_reserved_GB": 1.88
+   },
+   "yoloworld-s": {
+    "params_M": 164.0,
+    "latency_ms_median": 5.4,
+    "latency_ms_p5_p95": [
+     4.8,
+     6.2
+    ],
+    "peak_vram_GB": 0.66,
+    "peak_vram_reserved_GB": 0.73
+   },
+   "sam3": {
+    "params_M": 840.4,
+    "latency_ms_median": 533.8,
+    "latency_ms_p5_p95": [
+     529.6,
+     540.7
+    ],
+    "peak_vram_GB": 3.71,
+    "peak_vram_reserved_GB": 4.21
+   },
+   "rtmdet": {
+    "params_M": 113.7,
+    "latency_ms_median": 38.1,
+    "latency_ms_p5_p95": [
+     37.1,
+     40.2
+    ],
+    "peak_vram_GB": 0.57,
+    "peak_vram_reserved_GB": 0.72
+   }
+  },
+  "gpu": "NVIDIA GeForce RTX 3080 Ti",
+  "observed_study_protocol": {
+   "gdino-base_all": {
+    "n_images": 222,
+    "n_prompts": 15,
+    "seconds": 682.9,
+    "s_per_image_per_prompt": 0.205
+   },
+   "gdino-base_neg": {
+    "n_images": 869,
+    "n_prompts": 7,
+    "seconds": 1260.7,
+    "s_per_image_per_prompt": 0.207
+   },
+   "gdino-base_panel": {
+    "n_images": 80,
+    "n_prompts": 15,
+    "seconds": 249.7,
+    "s_per_image_per_prompt": 0.208
+   },
+   "gdino-tiny_all": {
+    "n_images": 222,
+    "n_prompts": 15,
+    "seconds": 505.6,
+    "s_per_image_per_prompt": 0.152
+   },
+   "gdino-tiny_neg": {
+    "n_images": 869,
+    "n_prompts": 7,
+    "seconds": 956.8,
+    "s_per_image_per_prompt": 0.157
+   },
+   "gdino-tiny_panel": {
+    "n_images": 80,
+    "n_prompts": 15,
+    "seconds": 182.0,
+    "s_per_image_per_prompt": 0.152
+   },
+   "owlv2-base_all": {
+    "n_images": 222,
+    "n_prompts": 15,
+    "seconds": 730.8,
+    "s_per_image_per_prompt": 0.219
+   },
+   "owlv2-base_neg": {
+    "n_images": 869,
+    "n_prompts": 7,
+    "seconds": 1352.1,
+    "s_per_image_per_prompt": 0.222
+   },
+   "owlv2-base_panel": {
+    "n_images": 80,
+    "n_prompts": 15,
+    "seconds": 262.5,
+    "s_per_image_per_prompt": 0.219
+   },
+   "owlv2-large_all": {
+    "n_images": 222,
+    "n_prompts": 15,
+    "seconds": 2286.4,
+    "s_per_image_per_prompt": 0.687
+   },
+   "owlv2-large_neg": {
+    "n_images": 869,
+    "n_prompts": 7,
+    "seconds": 4305.3,
+    "s_per_image_per_prompt": 0.708
+   },
+   "owlv2-large_panel": {
+    "n_images": 80,
+    "n_prompts": 15,
+    "seconds": 825.7,
+    "s_per_image_per_prompt": 0.688
+   },
+   "sam3_all": {
+    "n_images": 222,
+    "n_prompts": 15,
+    "seconds": 1871.0,
+    "s_per_image_per_prompt": 0.562
+   },
+   "sam3_neg": {
+    "n_images": 869,
+    "n_prompts": 7,
+    "seconds": 3350.5,
+    "s_per_image_per_prompt": 0.551
+   },
+   "sam3_panel": {
+    "n_images": 80,
+    "n_prompts": 15,
+    "seconds": 674.6,
+    "s_per_image_per_prompt": 0.562
+   },
+   "sam3agent_all": {
+    "n_images": 222,
+    "n_prompts": 1,
+    "seconds": 239.9,
+    "s_per_image_per_prompt": 1.081
+   },
+   "sam3agent_panel": {
+    "n_images": 80,
+    "n_prompts": 1,
+    "seconds": 83.4,
+    "s_per_image_per_prompt": 1.042
+   },
+   "yoloworld-s_all": {
+    "n_images": 222,
+    "n_prompts": 1,
+    "seconds": 271.1,
+    "s_per_image_per_prompt": 1.221
+   },
+   "yoloworld-s_neg": {
+    "n_images": 869,
+    "n_prompts": 1,
+    "seconds": 478.1,
+    "s_per_image_per_prompt": 0.55
+   },
+   "yoloworld-s_panel": {
+    "n_images": 80,
+    "n_prompts": 1,
+    "seconds": 115.5,
+    "s_per_image_per_prompt": 1.444
+   }
+  }
+ },
+ "seeds": {
+  "02_eval.py": [
+   "0"
+  ],
+  "03_compare.py": [
+   "0"
+  ],
+  "07_vs_supervised.py": [
+   "0"
+  ],
+  "09_size_matched.py": [
+   "0"
+  ],
+  "11_indirect.py": [
+   "0"
+  ],
+  "12_panel_agreement.py": [
+   "0"
+  ],
+  "13_panel_ceiling.py": [
+   "0"
+  ],
+  "21_model_costs.py": [
+   "0"
+  ]
+ },
+ "timings": {
+  "gdino-base": {
+   "passes": 10613,
+   "seconds": 2193.3,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 682.9
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 1260.7
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 249.7
+    }
+   },
+   "s_per_pass": 0.207
+  },
+  "gdino-tiny": {
+   "passes": 10613,
+   "seconds": 1644.4,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 505.6
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 956.8
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 182.0
+    }
+   },
+   "s_per_pass": 0.155
+  },
+  "owlv2-base": {
+   "passes": 10613,
+   "seconds": 2345.4,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 730.8
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 1352.1
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 262.5
+    }
+   },
+   "s_per_pass": 0.221
+  },
+  "owlv2-large": {
+   "passes": 10613,
+   "seconds": 7417.4,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 2286.4
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 4305.3
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 825.7
+    }
+   },
+   "s_per_pass": 0.699
+  },
+  "sam3": {
+   "passes": 10613,
+   "seconds": 5896.1,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 1871.0
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 3350.5
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 674.6
+    }
+   },
+   "s_per_pass": 0.556
+  },
+  "sam3agent": {
+   "passes": 302,
+   "seconds": 474.3,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 1,
+     "seconds": 239.9
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 1,
+     "seconds": 83.4
+    }
+   },
+   "stage1_seconds": 151,
+   "s_per_pass": 1.571
+  },
+  "yoloworld-s": {
+   "passes": 10613,
+   "seconds": 864.7,
+   "sets": {
+    "all": {
+     "n_images": 222,
+     "n_prompts": 15,
+     "seconds": 271.1
+    },
+    "neg": {
+     "n_images": 869,
+     "n_prompts": 7,
+     "seconds": 478.1
+    },
+    "panel": {
+     "n_images": 80,
+     "n_prompts": 15,
+     "seconds": 115.5
+    }
+   },
+   "s_per_pass": 0.081
+  }
+ },
+ "annotator_instruments": {
+  "files": {
+   "round1": {
+    "sha256": "a8ec3ab64b11ae89df8b5b1b97a09e1adf463fadbb346eff31f5676627108ca6",
+    "bytes": 1278,
+    "lines": 22
+   },
+   "round2": {
+    "sha256": "8a62a4ebf0d351a70f1771a0cda4e251934b1059f6d63335d8508c27e93892e8",
+    "bytes": 6156,
+    "lines": 91
+   }
+  },
+  "packages": {
+   "binh/round1": {
+    "sop_sha256": "a8ec3ab64b11ae89df8b5b1b97a09e1adf463fadbb346eff31f5676627108ca6",
+    "sop_mtime": "2026-08-31 16:09",
+    "guide_sha256": "c6586e8ab26886b988b0191d7c60d4d35843b38176372b4a24c1720500cb8d1b"
+   },
+   "binh/round2": {
+    "sop_sha256": "8a62a4ebf0d351a70f1771a0cda4e251934b1059f6d63335d8508c27e93892e8",
+    "sop_mtime": "2026-08-31 15:52",
+    "guide_sha256": "c7d32f4efaf7b18e3850901fe202f24cbe21caa88c3d791633e4b2bc2748b173"
+   },
+   "chi/round1": {
+    "sop_sha256": "a8ec3ab64b11ae89df8b5b1b97a09e1adf463fadbb346eff31f5676627108ca6",
+    "sop_mtime": "2026-08-31 16:09",
+    "guide_sha256": "9fc5d639e4b77333e64140fbbdec8319f8d38324fe7b6d5cef72a4653d9943ae"
+   },
+   "chi/round2": {
+    "sop_sha256": "8a62a4ebf0d351a70f1771a0cda4e251934b1059f6d63335d8508c27e93892e8",
+    "sop_mtime": "2026-08-31 15:52",
+    "guide_sha256": "d4f5fa80eac6e634253e01af2637b0387f498a44de4e08d747414f0b6bc9af2c"
+   },
+   "hai/round1": {
+    "sop_sha256": "a8ec3ab64b11ae89df8b5b1b97a09e1adf463fadbb346eff31f5676627108ca6",
+    "sop_mtime": "2026-08-31 16:09",
+    "guide_sha256": "3a5b2024033972064ba5665e4caa0a85a5222b92cb2ed1b41a1d16e611183b07"
+   },
+   "hai/round2": {
+    "sop_sha256": "8a62a4ebf0d351a70f1771a0cda4e251934b1059f6d63335d8508c27e93892e8",
+    "sop_mtime": "2026-08-31 15:52",
+    "guide_sha256": "93a0300e49adf2fc0afc6d9ccd4fede4d606b911a607c7aacbf9a96801b77ec8"
+   }
+  },
+  "earliest_submission": {
+   "file": "via_project_<annotator>.json",
+   "mtime": "2026-08-31 19:22"
+  }
+ }
+}

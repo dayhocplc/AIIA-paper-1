@@ -1,0 +1,352 @@
+{
+ "n_images": 54,
+ "metric": "microF1@IoU0.50",
+ "min_detectable_ap_points": 8.268637757839581,
+ "supervised": {
+  "preds": "<GIAMIA_ROOT>/repro/work_dirs/eval_clahe/preds.bbox.json",
+  "microF1": 0.4171779141104294,
+  "uiou": 0.5353260635272539,
+  "uiou_trivial_floor": 0.398,
+  "ap50_reported": 36.2,
+  "ap50_ci": [
+   28.4,
+   42.6
+  ]
+ },
+ "ov_ranked": [
+  {
+   "run": "sam3|C2|unwanted plant among sugarcane",
+   "microF1": 0.19413092550790068
+  },
+  {
+   "run": "sam3|C2|plant growing between cane rows",
+   "microF1": 0.19158878504672897
+  },
+  {
+   "run": "sam3|B|green plant",
+   "microF1": 0.18536585365853658
+  },
+  {
+   "run": "sam3|A|weeds",
+   "microF1": 0.1843687374749499
+  },
+  {
+   "run": "sam3|C1|plant that is not sugarcane",
+   "microF1": 0.18018018018018017
+  },
+  {
+   "run": "sam3|A|weed",
+   "microF1": 0.1765704584040747
+  },
+  {
+   "run": "owlv2-large|A|weeds",
+   "microF1": 0.1762295081967213
+  },
+  {
+   "run": "gdino-base|B|green plant",
+   "microF1": 0.17535545023696683
+  },
+  {
+   "run": "gdino-base|A|weeds",
+   "microF1": 0.17142857142857143
+  },
+  {
+   "run": "sam3|C1|vegetation other than the crop",
+   "microF1": 0.16926503340757237
+  },
+  {
+   "run": "sam3|B|grass",
+   "microF1": 0.16883116883116883
+  },
+  {
+   "run": "gdino-base|A|weed",
+   "microF1": 0.16585365853658537
+  },
+  {
+   "run": "owlv2-large|A|weed",
+   "microF1": 0.16585365853658537
+  },
+  {
+   "run": "sam3|C2|volunteer plant in a cane field",
+   "microF1": 0.16533333333333333
+  },
+  {
+   "run": "sam3|E|tall green leafy plant in a field",
+   "microF1": 0.15384615384615385
+  },
+  {
+   "run": "owlv2-base|B|broadleaf plant",
+   "microF1": 0.13881748071979436
+  },
+  {
+   "run": "owlv2-base|A|weeds",
+   "microF1": 0.13839285714285715
+  },
+  {
+   "run": "owlv2-large|B|broadleaf plant",
+   "microF1": 0.13729977116704806
+  },
+  {
+   "run": "owlv2-large|C1|vegetation other than the crop",
+   "microF1": 0.13614262560777957
+  },
+  {
+   "run": "gdino-base|B|grass",
+   "microF1": 0.134185303514377
+  },
+  {
+   "run": "sam3|B|broadleaf plant",
+   "microF1": 0.13370473537604458
+  },
+  {
+   "run": "owlv2-large|B|grass",
+   "microF1": 0.13105413105413105
+  },
+  {
+   "run": "owlv2-base|A|weed",
+   "microF1": 0.12987012987012986
+  },
+  {
+   "run": "owlv2-base|E|broad flat green foliage on soil",
+   "microF1": 0.1278538812785388
+  },
+  {
+   "run": "owlv2-large|B|green plant",
+   "microF1": 0.12755102040816327
+  },
+  {
+   "run": "gdino-base|B|vine",
+   "microF1": 0.12075471698113208
+  },
+  {
+   "run": "owlv2-base|E|tall green leafy plant in a field",
+   "microF1": 0.12060301507537688
+  },
+  {
+   "run": "owlv2-base|B|green plant",
+   "microF1": 0.12054794520547946
+  },
+  {
+   "run": "gdino-tiny|A|weed",
+   "microF1": 0.11976047904191617
+  },
+  {
+   "run": "gdino-base|B|broadleaf plant",
+   "microF1": 0.11965811965811966
+  },
+  {
+   "run": "gdino-tiny|A|weeds",
+   "microF1": 0.11864406779661017
+  },
+  {
+   "run": "gdino-base|C2|plant growing between cane rows",
+   "microF1": 0.1180952380952381
+  },
+  {
+   "run": "owlv2-large|E|broad flat green foliage on soil",
+   "microF1": 0.11737089201877934
+  },
+  {
+   "run": "owlv2-large|E|tall green leafy plant in a field",
+   "microF1": 0.11695906432748537
+  },
+  {
+   "run": "gdino-tiny|B|green plant",
+   "microF1": 0.11513859275053305
+  },
+  {
+   "run": "owlv2-base|C1|vegetation other than the crop",
+   "microF1": 0.11175337186897881
+  },
+  {
+   "run": "owlv2-base|B|grass",
+   "microF1": 0.10989010989010989
+  },
+  {
+   "run": "gdino-tiny|B|broadleaf plant",
+   "microF1": 0.10161662817551963
+  },
+  {
+   "run": "owlv2-large|C2|volunteer plant in a cane field",
+   "microF1": 0.10119840213049268
+  },
+  {
+   "run": "gdino-base|C1|plant that is not sugarcane",
+   "microF1": 0.09826589595375723
+  },
+  {
+   "run": "gdino-tiny|C2|plant growing between cane rows",
+   "microF1": 0.0967741935483871
+  },
+  {
+   "run": "gdino-base|C2|volunteer plant in a cane field",
+   "microF1": 0.09623430962343096
+  },
+  {
+   "run": "gdino-base|E|broad flat green foliage on soil",
+   "microF1": 0.09540034071550256
+  },
+  {
+   "run": "gdino-tiny|B|vine",
+   "microF1": 0.0946372239747634
+  },
+  {
+   "run": "gdino-base|C1|vegetation other than the crop",
+   "microF1": 0.09292035398230089
+  },
+  {
+   "run": "gdino-tiny|C1|plant that is not sugarcane",
+   "microF1": 0.09174311926605505
+  },
+  {
+   "run": "gdino-base|C2|unwanted plant among sugarcane",
+   "microF1": 0.09
+  },
+  {
+   "run": "gdino-tiny|B|grass",
+   "microF1": 0.0875
+  },
+  {
+   "run": "gdino-tiny|E|broad flat green foliage on soil",
+   "microF1": 0.0871559633027523
+  },
+  {
+   "run": "sam3agent|AGENT|mllm noun phrases",
+   "microF1": 0.08214285714285714
+  },
+  {
+   "run": "yoloworld-s|E|broad flat green foliage on soil",
+   "microF1": 0.08144796380090498
+  },
+  {
+   "run": "gdino-base|E|tall green leafy plant in a field",
+   "microF1": 0.08133086876155268
+  },
+  {
+   "run": "owlv2-base|C2|volunteer plant in a cane field",
+   "microF1": 0.08083832335329341
+  },
+  {
+   "run": "gdino-tiny|C2|volunteer plant in a cane field",
+   "microF1": 0.07834101382488479
+  },
+  {
+   "run": "gdino-tiny|C2|unwanted plant among sugarcane",
+   "microF1": 0.0783289817232376
+  },
+  {
+   "run": "owlv2-large|C2|plant growing between cane rows",
+   "microF1": 0.07766990291262135
+  },
+  {
+   "run": "gdino-tiny|C1|vegetation other than the crop",
+   "microF1": 0.07472527472527472
+  },
+  {
+   "run": "gdino-tiny|E|tall green leafy plant in a field",
+   "microF1": 0.07303370786516854
+  },
+  {
+   "run": "owlv2-large|C1|plant that is not sugarcane",
+   "microF1": 0.06609195402298851
+  },
+  {
+   "run": "yoloworld-s|C1|vegetation other than the crop",
+   "microF1": 0.06514657980456026
+  },
+  {
+   "run": "owlv2-base|B|vine",
+   "microF1": 0.06472491909385113
+  },
+  {
+   "run": "yoloworld-s|B|green plant",
+   "microF1": 0.061016949152542375
+  },
+  {
+   "run": "owlv2-large|B|vine",
+   "microF1": 0.059130434782608696
+  },
+  {
+   "run": "owlv2-large|C2|unwanted plant among sugarcane",
+   "microF1": 0.0576271186440678
+  },
+  {
+   "run": "owlv2-base|C1|plant that is not sugarcane",
+   "microF1": 0.056022408963585436
+  },
+  {
+   "run": "sam3|B|vine",
+   "microF1": 0.055900621118012424
+  },
+  {
+   "run": "yoloworld-s|E|tall green leafy plant in a field",
+   "microF1": 0.05555555555555555
+  },
+  {
+   "run": "owlv2-base|C2|plant growing between cane rows",
+   "microF1": 0.05549389567147614
+  },
+  {
+   "run": "sam3|E|broad flat green foliage on soil",
+   "microF1": 0.04936014625228519
+  },
+  {
+   "run": "owlv2-base|C2|unwanted plant among sugarcane",
+   "microF1": 0.04823747680890538
+  },
+  {
+   "run": "yoloworld-s|C2|unwanted plant among sugarcane",
+   "microF1": 0.039473684210526314
+  },
+  {
+   "run": "yoloworld-s|C2|plant growing between cane rows",
+   "microF1": 0.03205128205128205
+  },
+  {
+   "run": "yoloworld-s|C1|plant that is not sugarcane",
+   "microF1": 0.022058823529411766
+  },
+  {
+   "run": "yoloworld-s|B|broadleaf plant",
+   "microF1": 0.015503875968992248
+  },
+  {
+   "run": "yoloworld-s|C2|volunteer plant in a cane field",
+   "microF1": 0.014598540145985401
+  },
+  {
+   "run": "yoloworld-s|A|weeds",
+   "microF1": 0.007782101167315175
+  },
+  {
+   "run": "yoloworld-s|A|weed",
+   "microF1": 0.0
+  },
+  {
+   "run": "yoloworld-s|B|grass",
+   "microF1": 0.0
+  },
+  {
+   "run": "yoloworld-s|B|vine",
+   "microF1": 0.0
+  }
+ ],
+ "best_vs_supervised": {
+  "a": 0.19413092550790068,
+  "b": 0.4171779141104294,
+  "a_thr": 0.24,
+  "b_thr": 0.37,
+  "diff": -0.22304698860252875,
+  "lo": -0.3019540756287572,
+  "hi": -0.147271812056033,
+  "significant": true,
+  "run": "sam3|C2|unwanted plant among sugarcane"
+ },
+ "label_ceiling_f1": {
+  "value": 0.399,
+  "lo": 0.342,
+  "hi": 0.454,
+  "human_human_f1": 0.391,
+  "n_images": 15
+ }
+}
