@@ -1,0 +1,33 @@
+{
+  "model": "owlv2-large",
+  "hf_id": "google/owlv2-large-patch14-ensemble",
+  "set": "neg",
+  "n_images": 869,
+  "score_floor": 0.02,
+  "topk": 100,
+  "prompts": {
+    "A": [
+      0,
+      [
+        "weed",
+        "weeds"
+      ]
+    ],
+    "C2": [
+      0,
+      [
+        "unwanted plant among sugarcane",
+        "volunteer plant in a cane field",
+        "plant growing between cane rows"
+      ]
+    ],
+    "D": [
+      1,
+      [
+        "sugarcane",
+        "sugarcane leaf"
+      ]
+    ]
+  },
+  "seconds": 4305.3
+}
