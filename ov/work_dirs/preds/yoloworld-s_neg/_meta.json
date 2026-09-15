@@ -1,0 +1,24 @@
+{
+  "model": "yoloworld-s",
+  "ckpt": "yolov8s-worldv2.pt",
+  "set": "neg",
+  "groups": [
+    "A",
+    "C2",
+    "D"
+  ],
+  "n_images": 869,
+  "score_floor": 1e-05,
+  "topk": 100,
+  "max_confidence_per_prompt": {
+    "A|weed": 0.04083508625626564,
+    "A|weeds": 0.22405901551246643,
+    "C2|unwanted plant among sugarcane": 0.9405979514122009,
+    "C2|volunteer plant in a cane field": 0.6108262538909912,
+    "C2|plant growing between cane rows": 0.7817235589027405,
+    "D|sugarcane": 0.10137243568897247,
+    "D|sugarcane leaf": 0.1668930947780609
+  },
+  "protocol_deviation": "score floor 1e-5 instead of 0.02; model re-instantiated per prompt (device bug)",
+  "seconds": 478.1
+}
